@@ -1,0 +1,27 @@
+{
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "mobileToolbarCommands": [
+    "editor:configure-toolbar",
+    "editor:attach-file",
+    "editor:undo",
+    "editor:redo",
+    "editor:cut",
+    "editor:copy",
+    "editor:paste",
+    "editor:insert-tag",
+    "editor:insert-embed",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:go-start",
+    "editor:go-end"
+  ],
+  "strictLineBreaks": true
+}
