@@ -37,9 +37,9 @@ But we approach the problem differently.
 Our approach is to ask:
 
 In a future full of AI:
-- what would still suck about being human?
-- what would we wish existed, but not have?
-- what would make life dramatically better for little cost?
+- What would still suck about being human?
+- What would we wish existed, but not have?
+- What would make life dramatically better for little cost?
 
 Solving these problems isn't as ambitious as it sounds.
 
