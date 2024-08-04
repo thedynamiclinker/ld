@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "47cd2fb51a272ae6",
+        "id": "451245aa7f4ec2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "e061a0b3b0315f5e",
+            "id": "5a996125cacab578",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "include/hello-world/goodbye.jpg"
+                "file": "For Employers.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "include/hello-world/goodbye.jpg",
+                "file": "For Employers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "include/hello-world/goodbye.jpg",
+                "file": "For Employers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "include/hello-world/goodbye.jpg"
+                "file": "For Employers.md"
               }
             }
           }
@@ -147,8 +149,14 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e061a0b3b0315f5e",
+  "active": "5a996125cacab578",
   "lastOpenFiles": [
+    "For Employees.md",
+    "What We Believe.md",
+    "Hello World.md",
+    "For Employers.md",
+    "Contact Us.md",
+    "include/hello-world/goodbye.jpg",
     "include/hello-world/140-the-9-to-5-extinction-twitter.png",
     "include/hello-world/130-the-9-to-5-extinction-medium.png",
     "include/hello-world/120-the-9-to-5-extinction-medium.png",
@@ -158,12 +166,6 @@
     "include/hello-world/080-less-code-in-a-specific-language.png",
     "include/hello-world/070-thirty-percent-of-developers.png",
     "include/hello-world/060-but-the-highest-cost-is-labor.png",
-    "include/hello-world/050-workers-like-ai.png",
-    "include/hello-world/040-many-little-apocalypses.png",
-    "What We Believe.md",
-    "Hello World.md",
-    "Contact Us.md",
-    "Employment.md",
     "Technical.md",
     "technical.thedynamiclinker.com.md",
     "The Old You.md",
