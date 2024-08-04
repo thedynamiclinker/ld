@@ -56,7 +56,7 @@ They're things like "getting paid to be the most passionate and real version of 
 Our company's goal is to build things that make human life better, in a world where:
 - Full time employment becomes harder and harder to find.
 - Companies cut 90% of their white-collar jobs.
-- Freelancing or contracting or entrepreneurship become the default for most workers.
+- Freelancing or contracting or small-scale entrepreneurship become the default for most workers.
 
 We used to think this future sounded pretty bleak.
 
@@ -64,7 +64,9 @@ Now we think it's the best future we can imagine.
 
 But to make that future great, we need to build some tools for you.
 
-We're extreme capitalists, and we believe the most financially reasonable business model is to give as many people as possible exactly what they've always wanted. Sometimes that means ignoring what you guys ask for. We think you're capable of more than you think you are. I mean shit. Look at yourself. You're better than this. Whatever you think you want, we think you deserve more.
+We're extreme capitalists, and we believe the most financially viable business model is to help as many people as possible achieve what they want most. Sometimes that means helping business owners dramatically cut costs by replacing human labor with automation, so they can keep their business alive. Other times it means helping employees who hate their job to start a business they believe in for the first time. But one thing it always means is saying no to good contracts with good clients who only want incremental change.
+
+We specialize in major changes, for white-collar employers and employees. Though this service may sound vague or ill-defined, we can offer it service because for the first time in history, we have access to a technology that allows us to automate a large number of the highest paid jobs. If you get paid to sit at a desk and use a computer, automating your job is our area of expertise. We have no ability to replace your plumber or your electrician. But we can easily help you scale your tech startup with a smaller team. AI is transforming the economy, and we're here to help it change. With our help, we believe you're capable of doing more with less.
 
 Here at LD, we love humans. But that puts us in an unfortunate place when its comes to marketing. Because every lame-ass company in the world tries to act like they care about humans. And the last thing we want to do is to sound like those assholes. So we think a better vibe for us is to sound like, idk, terrorists, or something bad, on the outside, and then be secretly nice and pro-human and love you weirdos behind the scenes. I mean christ, aren't you tired of how everyone tries to seem all nice and moral on the outside and keeps their best juicy secrets all hidden? Of course you are. We are too. So here's the vibes we've settled on, business wise, for you...
 
