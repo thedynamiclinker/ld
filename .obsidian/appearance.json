@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Everforest",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [],
+  "baseFontSize": 16
 }
