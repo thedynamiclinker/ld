@@ -1,7 +1,7 @@
 {
   "spellcheck": false,
   "autoPairBrackets": false,
-  "autoPairMarkdown": false,
+  "autoPairMarkdown": true,
   "mobileToolbarCommands": [
     "editor:configure-toolbar",
     "editor:attach-file",

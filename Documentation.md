@@ -10,4 +10,5 @@
 ---
 
 ![[softwar.png]]
+
 <span style="display: block; text-align: center">The Book of Humans<br><a>https://social.thedynamiclinker.com</a></span>
