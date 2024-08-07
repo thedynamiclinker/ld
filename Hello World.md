@@ -49,5 +49,5 @@ You deserve better than the life you're living now.
 So we're devoting our lives to helping you chase your dreams.
 To be your own boss, and kick ass, and get paid.
 
-But we only want to hear from those of you who aren't afraid.
+And we'd love to hear from those among you who aren't afraid.
 Contact us: root@thedynamiclinker.com
