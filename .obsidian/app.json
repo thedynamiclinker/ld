@@ -23,5 +23,5 @@
     "editor:go-start",
     "editor:go-end"
   ],
-  "strictLineBreaks": true
+  "strictLineBreaks": false
 }
