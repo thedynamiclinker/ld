@@ -26,9 +26,9 @@
 
 
 ```sh
-~ $ ld -ld /虎/書/五
+~ $ ls -ld /虎/書/五
 -rwx-------   101 root   root       03:14:08 Jan 19 2038  /虎/書/五
 
-~ $ ld -l /虎/書/五
+~ $ ls /虎/書/五
 Permission Denied
 ```
