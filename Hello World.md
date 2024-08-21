@@ -91,7 +91,6 @@ So whoever you are, we'd love to hear from you.
 Come say hi.
 
 #### Contact us
-
-LinkedIn: [@thedynamiclinker](https://www.linkedin.com/company/thedynamiclinker)
 Youtube: [@thedynamiclinker](https://www.youtube.com/@thedynamiclinker)
+LinkedIn: [@thedynamiclinker](https://www.linkedin.com/company/thedynamiclinker)
 Email: root@thedynamiclinker.com
