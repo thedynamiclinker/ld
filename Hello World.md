@@ -92,6 +92,6 @@ Come say hi.
 
 #### Contact us
 
-LinkedIn: [The Dynamic Linker](https://www.linkedin.com/company/thedynamiclinker)
-Twitter: [@dynamic_linker](https://x.com/dynamic_linker)
+LinkedIn: [@thedynamiclinker](https://www.linkedin.com/company/thedynamiclinker)
+Youtube: [@thedynamiclinker](https://www.youtube.com/@thedynamiclinker)
 Email: root@thedynamiclinker.com
