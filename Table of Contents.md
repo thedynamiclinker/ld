@@ -3,7 +3,7 @@
 > See the [[Dictionary|dict]] when you're confused._
 > -LD Proverb
 
-%% 
+%%
 Sudocode is what (you're good at).
 BWKH is how (you start a business).
 Softwar is who (you get money from).
