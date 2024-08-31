@@ -18,7 +18,7 @@ You're here because you were curious.
 
 We like your style. We're curious too.
 
-There are five paths below now open to you.
+Five paths below are now open to you.
 
 Choose wisely.
 
