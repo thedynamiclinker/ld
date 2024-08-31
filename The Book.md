@@ -98,7 +98,7 @@ echo "10 十 ten the answer is ten" | xxd -p -c 1 | tail -1 | python -c "ook=int
 
 ![[we-the-third-mountain.png|200]]
 
-<span style="display: block; text-align: center">The Book of Lols<br><a>https://religion.thedynamiclinker.com</a></span>
+<span style="display: block; text-align: center">The Book of Lolz<br><a>https://religion.thedynamiclinker.com</a></span>
 
 - For: We
 - Aka: W/e
