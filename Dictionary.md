@@ -9,3 +9,5 @@
 
 > _The Tiger has Five Shoes._
 > -An instance of cryptic nonsensical propaganda often heard from members of a strange group called LD.
+
+Ok, now let's [[The Book#Resume|Resume]].

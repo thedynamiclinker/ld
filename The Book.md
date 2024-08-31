@@ -4,12 +4,26 @@
 > -LD Proverb
 
 ---
-
-Resume.
+## Resume
 1. (verb) To begin something again after a pause or interruption.
 2. (noun) A thing you write for work, to find people you'd enjoy working with.
 
 ---
+
+Hi there,
+
+Welcome to the company handbook.
+
+You're here because you were curious.
+
+We like your style. We're curious too.
+
+There are five paths below now open to you.
+
+Choose wisely.
+
+---
+
 
 ![[sudo-code.png]]
 
