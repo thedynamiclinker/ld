@@ -32,6 +32,15 @@ We specialize in eliminating jobs for employers, and in helping current employee
 
 We started LD because the AI apocalypse is here, but it doesn't have to be the dystopia we all fear.
 
-There's a reason to be optimistic about the AI apocalypse. The jobs most subject to automation turn out to be the jobs that no one ever really loved, but kept anyway because they paid well. Elite white collar work. A world with less of those jobs will look different, but we believe it can be a better world for everyone.
+The jobs most subject to automation turn out to be the jobs that no one ever really loved, but kept anyway because they paid well. Mostly elite white collar work. A world with less of those jobs will look different, but we believe it can be a better world for everyone.
 
 So if you're a business owner who wants to scale up sales and cut costs, or a disillusioned employee who dreams of being your own boss, but never got started because you never knew how, you both deserve better than the life you're living now. You deserve to be your own boss and kick ass and get paid. And we'd love to help those among you who aren't afraid.
+
+Interested? --> [[The Book|Level 2]].
+
+---
+#### Contact Us
+
+Youtube: [@thedynamiclinker](https://www.youtube.com/@thedynamiclinker)
+LinkedIn: [@thedynamiclinker](https://www.linkedin.com/company/thedynamiclinker)
+Email: root@thedynamiclinker.com
