@@ -12,8 +12,6 @@ What new kind of world?
 
 - Your job is most at risk if you're [educated and highly paid](https://time.com/6961559/ethan-mollick-ai-apocalypse-essay/#:~:text=Educated%20and%20highly%20paid%20workers).
 
-- Reid Hoffman predicts that the traditional [9-to-5 job will be extinct](https://www.businesstoday.in/latest/corporate/story/9-to-5-jobs-are-doomed-linkedin-co-founder-reid-hoffman-predicts-their-end-by-2034-438837-2024-07-26) by 2034.
-
 How do we know all this isn't just hype?
 
 ---
@@ -24,7 +22,7 @@ Your business still makes sense, but your org chart probably doesn't.
 
 There are positions in that org chart you're paying a premium for. Most of them can now be replaced for a fraction of the cost.
 
-Startups that used to need 20 employees can now get by with 2. 
+Startups that used to need 20 employees can now get by with 2. It's ok if you don't believe us. Your competitors do.
 
  We're AI developers. It's our job to automate highly paid jobs. So recently we quit those jobs and started a business, to help your business.
 
