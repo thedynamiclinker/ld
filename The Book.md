@@ -109,4 +109,4 @@ echo "10 十 ten the answer is ten" | xxd -p -c 1 | tail -1 | python -c "ook=int
 - Parent class: Deuteronomy
 - Description: Dudetheyreontome
 - Instance name: We
-- Book Number: 101 五 Woo 五 虎 Hoo 虎 V 五 Go 五 Go 五 Go 五 lol
+- Book Number: 101 五 Woo 五 虎 Hoo 虎 5 🙏 V 五 Go 五 Go 五 Go 五 lol
