@@ -5,6 +5,12 @@
 
 ---
 
+Resume.
+1. (verb) To begin something again after a pause or interruption.
+2. (noun) A thing you write for work, to find people you'd enjoy working with.
+
+---
+
 ![[sudo-code.png]]
 
 <span style="display: block; text-align: center">The Book of Skills<br><a>https://technical.thedynamiclinker.com</a></span>
@@ -78,7 +84,7 @@ echo "10 十 ten the answer is ten" | xxd -p -c 1 | tail -1 | python -c "ook=int
 
 ![[we-the-third-mountain.png|200]]
 
-<span style="display: block; text-align: center">The Book of Lol<br><a>https://religion.thedynamiclinker.com</a></span>
+<span style="display: block; text-align: center">The Book of Lols<br><a>https://religion.thedynamiclinker.com</a></span>
 
 - For: We
 - Aka: W/e
