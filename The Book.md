@@ -27,7 +27,7 @@ Choose wisely.
 
 ![[sudo-code.png]]
 
-<span style="display: block; text-align: center">The Book of Skills<br><a>https://technical.thedynamiclinker.com</a></span>
+<span style="display: block; text-align: center">The Book of Roots<br><a>https://technical.thedynamiclinker.com</a></span>
 
 - For: Developers
 - Aka: People who make stuff
@@ -44,7 +44,7 @@ Choose wisely.
 
 ![[abraham-linkin.png|200]]
 
-<span style="display: block; text-align: center">The Book of Business<br><a>https://business.thedynamiclinker.com</a></span>
+<span style="display: block; text-align: center">The Book of Laws<br><a>https://business.thedynamiclinker.com</a></span>
 
 - For: Employees
 - Aka: People who hate their jobs
@@ -61,7 +61,7 @@ Choose wisely.
 
 ![[softwar.png]]
 
-<span style="display: block; text-align: center">The Book of Strategy<br><a>https://social.thedynamiclinker.com</a></span>
+<span style="display: block; text-align: center">The Book of Humans<br><a>https://social.thedynamiclinker.com</a></span>
 
 - For: Employers
 - Aka: People who hired too many people
