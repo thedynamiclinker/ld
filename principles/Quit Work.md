@@ -1,1 +1,1 @@
-Todo: Link to Episode 1.
+See [How to control everything](https://youtu.be/N7WRitLqWQc).
