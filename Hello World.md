@@ -24,15 +24,15 @@ There are positions in that org chart you're paying a premium for. Most of them 
 
 Startups that used to need 20 employees can now get by with 2. It's ok if you don't believe us. Your competitors do.
 
- We're AI developers. It's our job to automate highly paid jobs. So recently we quit those jobs and started a business, to help your business.
+ We're AI developers. We specialize in automating highly paid jobs. So recently we quit those jobs and started a business, to help you.
 
-We specialize in eliminating jobs for employers, and in helping current employees become new entrepreneurs.
+We specialize in workforce automation for employers, and in helping current employees become new entrepreneurs.
 
 We started LD because the AI apocalypse is here, but it doesn't have to be the dystopia we all fear.
 
 The jobs most subject to automation turn out to be the jobs that no one ever really loved, but kept anyway because they paid well. Mostly elite white collar work. A world with less of those jobs will look different, but we believe it can be a better world for everyone.
 
-So if you're a business owner who wants to scale up sales and cut costs, or a disillusioned employee who dreams of being your own boss, but never got started because you never knew how, you both deserve better than the life you're living now. You deserve to be your own boss and kick ass and get paid. And we'd love to help those among you who aren't afraid.
+So if you're a business owner who wants to scale up sales and cut costs, or a disillusioned employee who dreams of being your own boss, but never got started because you never knew how, you both deserve better than the life you're living now. You deserve to be your own boss and kick ass and get paid.
 
 Interested? --> [[The Book|Level 2]].
 
