@@ -34,7 +34,15 @@ The jobs most subject to automation turn out to be the jobs that no one ever rea
 
 So if you're a business owner who wants to scale up sales and cut costs, or a disillusioned employee who dreams of being your own boss, but never got started because you never knew how, you both deserve better than the life you're living now. You deserve to be your own boss and kick ass and get paid.
 
-Interested? --> [[The Book|Level 2]].
+---
+#### Who we are
+
+Want to go deeper? --> [[The Book|Level 2]].
+
+---
+#### What we do
+
+How we make money --> [[Goodbye World]].
 
 ---
 #### Contact Us

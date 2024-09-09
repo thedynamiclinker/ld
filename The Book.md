@@ -40,45 +40,15 @@ Choose wisely.
 - Description: The one with all the roots.
 - Book Number: 1
 
----
-
-![[abraham-linkin.png|200]]
-
-<span style="display: block; text-align: center">The Book of Laws<br><a>https://business.thedynamiclinker.com</a></span>
-
-- For: Employees
-- Aka: People who hate their jobs
-- Aka: People we want to pay
-- Aka: Future entrepreneurs
-- Topics: Rules, Accounting, Requirements, Tedium
-- Class name: Books of Law
-- Parent class: Leviticus
-- Description: The one with too many laws.
-- Instance name: Before We Know How
-- Book Number: 11
+#### Episodes
+- Coming soon
 
 ---
 
-![[softwar.png]]
-
-<span style="display: block; text-align: center">The Book of Humans<br><a>https://social.thedynamiclinker.com</a></span>
-
-- For: Employers
-- Aka: People who hired too many people
-- Aka: People currently bleeding money
-- Aka: Future clients
-- Topics: Leadership, Management, Strategy
-- Class name: Books of War
-- Parent class: Numbers
-- Description: Count your people, prepare for war.
-- Instance name: Softwar
-- Book Number: 💯
-
----
 
 ![[ld.png]]
 
-<span style="display: block; text-align: center">The Book of Company<br><a>https://thedynamiclinker.com</a></span>
+<span style="display: block; text-align: center">The Book of Movement<br><a>https://thedynamiclinker.com</a></span>
 
 - For: Future members
 - Aka: Readers
@@ -93,6 +63,50 @@ Choose wisely.
 ```bash
 echo "10 十 ten the answer is ten" | xxd -p -c 1 | tail -1 | python -c "ook=int(__import__('sys').stdin.read(), 1<<(1<<(1<<1)));print(eval(f'0b{ook}'))"
 ```
+#### Episodes
+- [Book 2 Chapter 1: How to control everything](https://www.youtube.com/watch?v=N7WRitLqWQc)
+
+---
+
+![[abraham-linkin.png|200]]
+
+<span style="display: block; text-align: center">The Book of Laws<br><a>https://business.thedynamiclinker.com</a></span>
+
+- For: Employees
+- Aka: People who hate their jobs
+- Aka: People we want to pay
+- Aka: Future entrepreneurs
+- Topics: Laws, Accounting, Business, Strategy
+- Class name: Books of Law
+- Parent class: Leviticus
+- Description: The one with too many laws.
+- Instance name: Before We Know How
+- Book Number: 11
+
+#### Episodes
+- [Book 3 Chapter 1: Before We Know How](https://www.youtube.com/watch?v=CsFu6m6nt1Y)
+- [Book 3 Chapter 2: Business Plan](https://www.youtube.com/watch?v=9RoHQ5yikZY)
+- [Book 3 Chapter 3: The First Bit](https://www.youtube.com/watch?v=_ETMFlMigYM)
+- [Book 3 Chapter 4: Business](https://www.youtube.com/watch?v=vxU--qWm5vc)
+
+---
+
+![[softwar.png]]
+
+<span style="display: block; text-align: center">The Book of Humans<br><a>https://social.thedynamiclinker.com</a></span>
+
+- For: Our People
+- Aka: People we enjoy
+- Aka: The Chosen People
+- Topics: Humans, Groups, Belonging
+- Class name: Books of War
+- Parent class: Numbers
+- Description: Count your people, prepare for war.
+- Instance name: Softwar
+- Book Number: 💯
+
+#### Episodes
+- Coming soon
 
 ---
 
@@ -110,3 +124,6 @@ echo "10 十 ten the answer is ten" | xxd -p -c 1 | tail -1 | python -c "ook=int
 - Description: Dudetheyreontome
 - Instance name: We
 - Book Number: 101 五 Woo 五 虎 Hoo 虎 5 🙏 V 五 Go 五 Go 五 Go 五 lol
+
+#### Episodes
+- Coming soon
