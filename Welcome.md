@@ -4,9 +4,9 @@ Welcome, come inside.
 
 Or as we say in the New World...
 
-# 山Шשش‎ΗE‎‎‎ηeεlλΛLχϙc©ϘCΚ來ΩʌəㅁϺμϻ𓈖eεη
+# ωwшWШ山שش‎ΗE‎‎‎三ΞηeεlλΛLϙc©ϘCΚΩμε來ϙϘCʌəㅁϺμϻ來𓈖εηʃΣσςsSi死דΔe
 
-Welcome to LD.
+Welcome to LD. :D
 
 We recently released a movie.
 
