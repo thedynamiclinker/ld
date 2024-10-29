@@ -37,12 +37,16 @@ So if you're a business owner who wants to scale up sales and cut costs, or a di
 ---
 #### What we do
 
-How we make money --> [[Goodbye World]].
+How we make money --> [[Goodbye World]].[^1]
+
+[^1]: This is less interesting. Don't read this one.
 
 ---
 #### Who we are
 
-Want to go deeper? --> [[The Book|Follow me]].
+Want to go deeper? --> [[The Book|Follow me]].[^2]
+
+[^2]: This is better. Read this one.
 
 ---
 #### Contact Us

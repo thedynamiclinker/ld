@@ -106,7 +106,10 @@ echo "10 十 ten the answer is ten" | xxd -p -c 1 | tail -1 | python -c "ook=int
 - Book Number: 💯
 
 #### Episodes
-- Coming soon
+- [Book 4 Chapter 1: The Lies](https://youtu.be/3ZY4fn1k57I?si=6tv9bdeRksHvBACX)
+- [Book 4 Chapter 2: The Truth](https://youtu.be/DjGHkEc3eic?si=eqN-9_1km8thyimZ)
+- Book 4 Chapter 3: Yuzheng Sun. Coming soon.
+- [Book 4 Chapter 4: Bryan Cantrill (Trailer)](https://youtu.be/Loqi5reISmA?si=IZDe5jNKfLngSCiW)
 
 ---
 
@@ -126,4 +129,4 @@ echo "10 十 ten the answer is ten" | xxd -p -c 1 | tail -1 | python -c "ook=int
 - Book Number: 101 五 Woo 五 虎 Hoo 虎 5 🙏 V 五 Go 五 Go 五 Go 五 lol
 
 #### Episodes
-- Coming soon
+- [Book 5 Volume 1: On the Lamb](https://religion.thedynamiclinker.com/bible/On+the+Lamb)
