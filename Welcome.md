@@ -29,3 +29,5 @@ Come 🔜 find 🕵🏻‍♀️ it 🎥 [here](https://religion.thedynamiclinke
 ζ咱Ααн們ϺϻηиИНнn 🌏
 
 ![[well-come-back.gif]]
+
+[根](https://religion.thedynamiclinker.com/alphabet/meanings/%E6%A0%B9)

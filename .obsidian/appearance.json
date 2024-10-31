@@ -4,5 +4,6 @@
   "theme": "obsidian",
   "enabledCssSnippets": [
     "ld"
-  ]
+  ],
+  "baseFontSize": 16
 }
