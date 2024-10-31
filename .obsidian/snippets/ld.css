@@ -1,0 +1,44 @@
+:root {
+	--red: #e06666;
+	--blue: #6d9eeb;
+	--yellow: #ffe599;
+    --green: #93c47d;
+    --white: #eeeeee;
+	--grey: #adadad;
+    --background: #2f383e;
+    --r-background-color: var(--background);
+}
+
+
+h1, .red, .cm-header-1 {
+	color: var(--red) !important;
+}
+
+h2, .blue, .cm-header-2 {
+	color: var(--blue) !important;
+}
+
+h3, .yellow, .cm-header-3 {
+	color: var(--yellow) !important;
+}
+
+h4, .green, .cm-header-4 {
+	color: var(--green) !important;
+}
+
+h5, .white, .cm-header-5 {
+	color: var(--white) !important;
+}
+
+h6, .grey, .cm-header-6 {
+	color: var(--grey) !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal !important;
+    text-transform: none !important;
+}
+
+.slide-background-content {
+    color: var(--background) !important;
+}

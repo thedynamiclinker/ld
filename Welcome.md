@@ -1,19 +1,29 @@
-Oh hi there!
+Hi there! 😃
 
-Welcome, come inside.
+Welcome. 👋
 
-Or as we say in the New World...
+Come 🍆 inside. 💦
 
-# ωwшWШ山שش‎ΗE‎‎‎三ΞηeεlλΛLϙc©ϘCΚΩμε來ϙϘCʌəㅁϺμϻ來𓈖εηʃΣσςsSi死דΔe
+Or as we say in the New 🌍 World.
 
-Welcome to LD. :D
+> ωwшWШ山שش‎ΗE‎‎‎三ΞηeεlλΛLϙc©ϘCΚΩμε來ϙϘCʌəㅁϺμϻ來𓈖εηʃΣσςsSi死דΔe
 
-We recently released a movie.
+But 🍑 don't 🙅🏻‍♀️ worry 🤔 about 🚫 that. 
 
-Or a bible.
+That's 🌄 a 🥚🐇 story 🌕 for 🎄🎅 another 🌅 day.
 
-Or an apocalypse.
+For 🕓 now.
 
-Or something like that.
+Welcome to LD! 😃
 
-Find it -> [ζ咱Ααн們ϺϻηиИНнn](https://religion.thedynamiclinker.com).
+We recently released a movie. 🎬
+
+Or 🔟 a 🔏 bible.
+
+Or an apocalypse. 🎉
+
+Or something like that. `¯\_(ツ)_/¯`
+
+Come 🔜 find 🕵🏻‍♀️ it 🎥 [here](https://religion.thedynamiclinker.com) 🍿kcab 🔙 eht 💦 ni 🍑 s'tI
+
+ζ咱Ααн們ϺϻηиИНнn 🌏
