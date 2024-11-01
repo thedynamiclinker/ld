@@ -18,10 +18,10 @@ Welcome to LD!
 
 We recently released a movie. 🎬
 
-Or a bible.
+Or a Bible.
 
-Or an apocalypse.
+Or an Apocalypse.
 
 Or something like that.
 
-Come find it 🕵🏻‍♀️  [here](https://religion.thedynamiclinker.com)
+Come find it 🕵🏻‍♀️ --> [here](https://religion.thedynamiclinker.com)
