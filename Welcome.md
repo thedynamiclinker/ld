@@ -24,4 +24,4 @@ Or an Apocalypse.
 
 Or something like that.
 
-Come find it 🕵🏻‍♀️ --> [here](https://religion.thedynamiclinker.com)
+Come find it 🕵🏻‍♀️ 🡒 [here](https://religion.thedynamiclinker.com)
