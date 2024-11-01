@@ -2,32 +2,26 @@ Hi there! 😃
 
 Welcome. 👋
 
-Come 🍆 inside. 💦
+Come inside. 💦
 
-Or as we say in the New 🌍 World.
+Or as we say in the New World. 🌍
 
 > ωwшWШ山שش‎ΗE‎‎‎三ΞηeεlλΛLϙc©ϘCΚΩμε來ϙϘCʌəㅁϺμϻ來𓈖εηʃΣσςsSi死דΔe
 
-But 🍑 don't 🙅🏻‍♀️ worry 🤔 about 🚫 that. 
+But 🍑 don't 🙅🏻‍♀️ worry 🤔 about that now.
 
-That's 🌄 a 🥚🐇 story 🌕 for 🎄🎅 another 🌅 day.
+That's a story for another day.
 
-For 🕓 now.
+For now.
 
-Welcome to LD! 😃
+Welcome to LD!
 
 We recently released a movie. 🎬
 
-Or 🔟 a 🔏 bible.
+Or a bible.
 
-Or an apocalypse. 🎉
+Or an apocalypse.
 
-Or something like that. `¯\_(ツ)_/¯`
+Or something like that.
 
-Come 🔜 find 🕵🏻‍♀️ it 🎥 [here](https://religion.thedynamiclinker.com) 🍿kcab 🔙 eht 💦 ni 🍑 s'tI
-
-ζ咱Ααн們ϺϻηиИНнn 🌏
-
-![[well-come-back.gif]]
-
-[根](https://religion.thedynamiclinker.com/alphabet/meanings/%E6%A0%B9)
+Come find it 🕵🏻‍♀️  [here](https://religion.thedynamiclinker.com)
