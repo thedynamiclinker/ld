@@ -23,5 +23,6 @@
     "editor:go-start",
     "editor:go-end"
   ],
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": false
 }
