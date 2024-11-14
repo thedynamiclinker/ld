@@ -1,6 +1,6 @@
 
 > _The Tiger has Five Shoes.
-> See the [[Dictionary|dict]] when you're confused._
+> See the [[The Dict|dict]] when you're confused._
 > -LD Proverb
 
 ---
