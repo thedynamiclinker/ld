@@ -1,6 +1,6 @@
-An identification problem resulting from [[Implicit Attribute]].
+An identification problem resulting from [[Implicit Attribute|Implicit Attributes]].
 
-Whenever an important attribute of oneself or one's ideal
+Whenever an important attribute of oneself or one's ideal:
 - romantic partners,
 - career path,
 - friends or friend groups,
