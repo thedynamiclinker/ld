@@ -1,4 +1,6 @@
-Problem: Wtf is going on in this graph dude Jesus Christ.[^1][^2]
+Ok look, we know, "The Philippines" isn't exactly a problem.
+
+On the other hand: Wtf is going on in this graph dude Jesus Christ.[^1][^2]
 
 ![[k1-visas-by-country.jpg]]
 

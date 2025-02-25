@@ -1,1 +1,1 @@
-Email: root@thedynamiclinker.com
+root@thedynamiclinker.com
