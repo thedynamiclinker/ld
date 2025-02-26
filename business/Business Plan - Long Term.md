@@ -1,14 +1,24 @@
+This is a less conventional addition to the business plan in [[Business Plan]].
+
+In this page, we will outline our longer term goals for the business, both in our intentions for the physical locations, and for the technology wing that we intend to direct resources toward once the first physical locations are established.
+
+The unifying theme of all parts of our business is the goal of tacking the problems of loneliness and social isolation that are so prevalent in modern life, and doing so in a way that is not currently offered by any existing business.
+
+---
+
+## Long Term Business Plan
+
 We plan to develop the business in stages, each of which must be profitable.
 
-We begin with a familiar business model: a standard bar and restaurant.
+We begin with a familiar business model: a small shop offering coffee, food, wine & beer.
 
-We then iteratively modify this business model in minor ways, each designed to expand the loyalty and devotion of its regulars, and the geographic scope of the business.
+We will then iteratively modify this business model in minor ways, each designed to expand the geographic scope of the business, and the loyalty and devotion of its regulars.
 
 We eventually arrive at a technology company that aims to steal a majority of market share from all existing dating apps, career apps, and social networks.
 
-We aim to reach this point without taking any risks that have a significant chance of "going to zero." In other words we intend to deliver profits early, on a relatively small investment, and to "fail like an escalator" at each stage as we iteratively modify the business model.
+We aim to reach this point without taking any risks that have a significant chance of allowing investments to "go to zero." In other words, we intend to deliver profits early, on a relatively small investment, and to "fail like an escalator" at each stage as we iteratively modify the business model.
 
-An initial draft of the business plan is as follows.
+An initial draft of the long term plan is as follows.
 
 ## Stage 0: Prehistory
 
@@ -17,10 +27,10 @@ The reader can skip this stage and proceed to [[#Stage 1 Foundation Era|Stage 1:
 Stage 0 is a normal restaurant and bar. This is chosen as the foundation for the creative ideas that follow, due to its extreme familiarity and total lack of creativity.
 
 ### Goal
-Rent a ~2000 sq ft retail location, get a California type 42 beer & wine license and the required permits for operating a bar and restaurant, and open for business.
+Rent a ~2000 sq ft retail location, get a California type 41 beer & wine license and the required permits for operating a bar and restaurant, and open for business.
 
 ### Cost
-$3-5k/mo rent + $7k one time cost for the type 42 license and lawyer's fees + cost of renovations + cost of a keggerator, refrigerators, bar, barstools, and decorations.
+$3-5k/mo rent + $7k one time cost for the type 41 license and lawyer's fees + cost of renovations + cost of a keggerator, refrigerators, bar, barstools, and decorations.
 
 ### Worst case outcome
 Break even or lose money slowly. Non-transferrable investments like renovations to the physical location will be unrecoverable. Transferable investments like the bar equipment are typically purchased used by most businesses, and should be partially recoverable by selling them on the secondary market. The downside is minimal provided the upfront non-transferrable investment is limited.
@@ -39,7 +49,7 @@ If you want anything, you have to talk to someone.
 
 You can offer to get theirs while they get yours, or any other agreement. But you can't just buy something for yourself and look at your phone without engaging with other customers.
 
-Same deal applies to food and everything else we sell.
+Same deal applies to food and coffee and everything else we sell.
 
 Nothing you buy in the establishment is allowed to be consumed by you.
 
