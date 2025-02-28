@@ -4,7 +4,7 @@ Hi there!
 
 If you're here, you were probably approached by one of our members.
 
-Maybe they gave you a [[Business Cards|business card]]? Maybe the ones where the font was too small and the text was full of foul language and insults? Or maybe you met them some other way, I don't know, I wasn't there.
+Maybe they gave you a [[Business Cards|business card]]? Maybe the ones where the font was too small and the text was full of foul language and insults? Or maybe you met them some other way, I don't know. I wasn't there.
 
 Either way, apologies for their behavior. I'm not one of them. I'm just the website. A website like myself would never be so impolite.
 
@@ -52,7 +52,7 @@ Sincerely,
 
 ---
 
-P.S. Don't worry about all the other webpages that are currently floating around in that sidebar over to the left. The members told me those other webpages will all be as good as me eventually. But I've read most of them, and it's clear that some of them aren't quite "finished" just yet. Personally I think the [[Business Plan]] is pretty nice. It's friendly and professional, just like me. The others are, well, a bit more like the members. Proceed with caution.
+P.S. There are some other webpages floating around in that sidebar over to the left. They're works in progress. No promises about what's in there, or whether it makes sense yet. Some of the members are open source software nerds, so they seem to think it's ok to just publish stuff that isn't done yet.
 
 Sincerely (again),
 

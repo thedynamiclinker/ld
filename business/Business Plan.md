@@ -135,9 +135,9 @@ The verbiage is extreme, but it is exactly the type of content that we have foun
 
 The admittedly extreme verbiage in the business card below is exactly what is required to convince this type of person that we're serious about what we do, and that we aren't just another interchangeable business that opts for a boring risk-averse brand identity, rather than being willing to stand out and stand up for what they are.
 
-![[business-card-1-front.jpg]]
+![[business-cards-logo.jpg]]
 
-![[business-card-1-back.jpg]]
+![[business-cards-1.jpg]]
 
 The technique employed above is well understood by psychologists and marketing experts.
 
