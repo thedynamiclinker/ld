@@ -7,7 +7,7 @@ Nice to meet you.
 
 If you're here, you were probably approached by one of our members.
 
-Maybe they gave you a [[Business Cards|business card]]? Possibly the ones where the font was too small, and the text was full of foul language and insults? Or maybe you met them some other way. I don't know, I wasn't there.
+Maybe they gave you a [[Business Cards|business card]]? Possibly the ones where the font was too small and the text was full of foul language and insults? Or maybe you met them some other way. I don't know, I wasn't there.
 
 Either way, apologies for their behavior. I'm not one of them. I'm just the website. A website like myself would never be so impolite.
 
@@ -35,45 +35,47 @@ They tell me it's the same problem that these people are talking about here:
 
 After scrolling through hundreds of similar posts asking [[Where To Find People]], I was left feeling quite disoriented.
 
-After all, people are everywhere. Just look at them all. There's one, right there.
+After all, people are everywhere. Just look at them all.
 
-And yet here were hundreds of human voices shouting desperately in unison that they've no idea where to find any. Or at least not where to meet any, which is perhaps a different thing.
+And yet here were hundreds of voices shouting desperately into the void that they've got no idea where to find any.
 
-Now back to that business. The one our members will be opening.
+Now, back to that business. The one our members will be opening.
 
-See, just as I felt I was beginning to understand the problem, they went and confused me again by telling me their solution.
+See, just as I felt I was beginning to understand the problem, they went and confused me even more by telling me their solution.
 
-As far as I can tell, they intend to be exactly like any other business that offers coffee, food, and light drinks like wine or beer, but with one difference:
+They said they intend to be exactly like any other business that offers coffee, food, and light drinks like wine or beer, but with one difference:
 
-_No one is allowed to buy anything for themselves._
+No one is allowed to buy anything for themselves.
 
-If you want anything, you have to talk to someone, and figure out a way around this rule.
+If you want anything, you have to talk to someone, and figure out a way around this simple obstacle together.
 
 For example, I can get yours and you can get mine. Or I can get yours and you can owe me one. Or anything else. Whatever you and I can agree on.
 
 That's the only rule.
 
-Whatever they sell, whether it's a cappucino, a bagel with cream cheese, a cold beer, a glass of wine, or a big silly hat, you can't just come in alone and not talk to anyone. At least not if you want anything to eat or drink.
+So whatever they sell, whether it's a cappucino, a bagel with cream cheese, a cold beer, a glass of wine, or a big silly hat, you can't just come in alone and not talk to anyone. At least not if you want anything to eat or drink.
 
 Now, being a website, like I am, I don't really understand the appeal of this idea. But apparently lots of humans feel it would be a breath of fresh air.
 
-See the issue with modern life appears not to be so much the question of where to "find" people, but rather where to find people that are looking to be found.
+As I keep hearing from the members, meeting new people is now more difficult than ever, especially out in the real world, which is this thing I keep hearing about that isn't the internet.
 
-And as I keep hearing from the members, meeting new people is now more difficult than ever, especially out in the real world, which is this thing I keep hearing about that isn't the internet.
+Humans these days appear to be lonely, even in rooms with lots of people around.
 
-Humans these days appear to be lonely, even in rooms with lots of people around. Socially isolated, even in social situations.
+Socially isolated, even in social situations.
 
-And they claim to be lacking something they call "community," despite an abundance of retirement communities, gated communities, and other words with "community" right there in the name.
+And they claim to be lacking something they call "community," despite an abundance of such things as retirement communities, gated communities, and other words with "community" right there in the name.
 
-But it is undoubtedly true that being a human these days is different than it used to be. Easier in some ways. But also harder. Definitely harder.
+Still, being a human these days is different than it used to be. Easier in some ways. But also harder. Definitely harder.
 
 In the past, areas like coffee shops or neighborhood bars were a sort of "third place," a social setting aside from home or work, where people of all ages could congregate and meet.
 
 In recent years, the prevalence of laptops, smart phones, headphones, and remote work have apparently made it much more difficult to approach people in these establishments, without having to worry that you might be bothering someone.
 
-Now I personally have nothing against laptops or smart phones (that's where us websites live, after all). But apparently it's made being human a lot more complicated, lonely, and socially isolating. At least that's what I hear from the humans.
+Now I personally have nothing against laptops or smart phones (that's where us websites live, after all). But apparently it's made being human a lot more complicated, lonely, and socially isolating.
 
-They say that their business will be a unique social setting, in that you can be assured that anyone else in this building is open to being approached and meeting strangers. Otherwise, they wouldn't be there. That sounds pretty nice, to be honest. After all, you're a stranger, and I've enjoyed meeting you so far. Maybe I should get off this internet myself and try out this "real world" I keep hearing about. It sounds nice.
+The members claim that their business uniquely solves [[The Initiation Problem]], by providing a small barrier that affects all customers equally. Any person in the establishment has effectively agreed to meeting strangers simply by being there. Otherwise, they would be somewhere else.
+
+That sounds pretty nice, to be honest. After all, you're a stranger, and I've enjoyed meeting you so far. Maybe I should get off this internet myself and try out this "real world" I keep hearing about. It sounds nice.
 
 Anyways, let me know if you have any ideas of how the members could get this business up and running as quickly as possible. They say they have more than enough money to get it up and running on their own, but secretly, I know they'd really enjoy having help from other humans, especially ones who agree that something like this absolutely needs to exist.
 
