@@ -117,7 +117,7 @@ The back of a typical bottle of Stone contains a long paragraph in small font, t
 
 The text on the back of their Arrogant Bastard ale is as follows.
 
-![[arrogant.gif]]
+![[arrogant.jpg]]
 
 However, when one visits Stone Brewing Co in Escondido, one is not confronted by a hostess that insults the customer like the back of a Stone beer bottle.
 

@@ -4,7 +4,7 @@ Hi there!
 
 If you're here, you were probably approached by one of our members.
 
-Maybe they gave you a [[Business Cards|business card]]? The ones where the font was too small and the text was full of foul language and insults? Or maybe you met them some other way, I don't know, I wasn't there.
+Maybe they gave you a [[Business Cards|business card]]? Maybe the ones where the font was too small and the text was full of foul language and insults? Or maybe you met them some other way, I don't know, I wasn't there.
 
 Either way, apologies for their behavior. I'm not one of them. I'm just the website. A website like myself would never be so impolite.
 
