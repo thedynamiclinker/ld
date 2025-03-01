@@ -111,7 +111,7 @@ Anyways, let me know if you have any ideas of how the members could get this bus
 
 They say they have more than enough money to get it up and running on their own, but secretly, I know they'd really enjoy having help from other humans, especially ones who wish a place like this existed.
 
-At least one should exist, right? Yes I think so. At least one. And probably ten thousand. After all, if they can make one location work, there's no reason it can't work in any place with lonely people, assuming those people also live in the modern world. I think there are probably lots of places like that.
+At least one should exist, right? Yes I think so. At least one. And probably ten thousand. After all, if they can make one location work, there's no reason it can't work in any place with lonely people, assuming those people also live in the modern world. I think there are probably lots of places like that. At least ten thousand.
 
 Well I'm getting a bit long for a home page at this point, so I should probably wrap up. Us homepages are always taught that it's best to be brief.
 
