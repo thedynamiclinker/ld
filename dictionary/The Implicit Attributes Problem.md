@@ -20,6 +20,10 @@ rarely if ever download the same apps as the people who are looking for them.
 
 After all, why would they?
 
+This is perhaps the most easily solvable fundamental problem of human existence ever to go unaddressed for so long. It's absolutely pathetic, both from a business perspective and a human one.
+
+We can do better without breaking a sweat.
+
 ## Apps know almost nothing about you
 
 This is the Implicit Attributes Problem.
