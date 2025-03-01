@@ -25,7 +25,7 @@ They're planning to call it "Where To Find People."
 
 Or more briefly: "WTF People," because they think that's funny for some reason, plus it looks better on hats.
 
-To be honest though, Reader, I'm still a bit confused.
+To be honest though, dear reader, I'm still a bit confused.
 
 See, whenever I ask them what problem they aim to solve with this business, they just tell me the problem is right there in the name.
 
