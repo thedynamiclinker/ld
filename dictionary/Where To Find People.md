@@ -1,4 +1,4 @@
-The particularly modern problem that everyone below is asking about.
+The particularly modern problem that everyone below is talking about.
 
 ![[where-to-find-people-1.png]]
 
