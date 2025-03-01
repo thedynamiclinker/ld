@@ -13,7 +13,3 @@ The amount of hate that the users of a platform claim to possess for that platfo
 The maximum level of "how much your users hate you" therefore occurs for apps such as Tinder and LinkedIn, while the minimum user-hate occurs for apps that build a complete graph of order N, where N is the number of edges.
 
 No apps in the latter category are known to exist, even approximately.
-
-This should not be a difficult problem to fix.
-
-I mean Jesus fucking Christ people seriously Amen.
