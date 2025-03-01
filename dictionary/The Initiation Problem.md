@@ -1,6 +1,14 @@
-Not a single business in the average modern city has managed to offer a solution to the following problem: To strike up a conversation with a stranger, you need a plausible reason.
+Not a single business in the average modern city has managed to offer a solution to the following problem.
 
-That is, you have to manufacture some excuse, specific to the person in question. But before we've spoken to someone, we're by definition limited to superficially apparent attributes in manufacturing an opening remark.
+Problem: To strike up a conversation with a stranger, you need a plausible reason.
+
+You can't just say "I'm lonely" or "You're cute."
+
+(I mean sure, you can, but then the person tends to frown and throw garbage at you.)
+
+In other words, to talk to strangers, you have to manufacture some excuse, ideally an excuse specific to the person in question. You can't say "I saw a guy one time who had nice shoes." You have to tell the person that _they_ have nice shoes, or something like that, even though most shoes are unremarkable, and thus useless as an excuse.
+
+See before we've spoken to someone, we're by definition limited to commenting on only superficially observable features of them, their belongings, or our shared surroundings, in manufacturing an opening remark.
 
 ![[afraid-of-bothering-people-1.png]]
 
@@ -30,3 +38,8 @@ Same deal with people who are just looking for friends.
 
 ![[where-to-find-people-47.png]]
 
+This is pretty fucking dumb.
+
+We're going to solve this problem, because it's absurdly easy to do.
+
+And for some reason solving it is something no one else is trying to do.
