@@ -22,7 +22,7 @@ This was not the world we signed up for.
 
 In other words, society no longer works. It got too big, and the internet made it orders of magnitude bigger. Now, society being big isn't a problem in itself. But when the big group of millions replaces the small groups that our minds evolved to be hungry for, then society has ceased to serve the function for which it was created: namely, to help us find those three big needs up at the top of this page.
 
-The briefest look at the predicaments now faced by Gen Z and millenials show that using the existing institutions of society no longer help the youth get the things past generations used to. For example:
+The briefest look at the predicaments now faced by Gen Z and millenials show that using the existing institutions of society no longer help the youth to get the things past generations used to get from participating in those institutions. For example:
 
 - 50% of single men between 18 and 30 have not approached a girl in the past year. Despite this, 90% of women in the same age group say they would prefer the man to approach first, when meeting someone new.
 
