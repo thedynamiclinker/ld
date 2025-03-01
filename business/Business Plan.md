@@ -9,7 +9,7 @@
 
 The business name will be abbreviated on our merchandise as "WTF People"
 
-**Location:** Escondido, San Marcos, Kearny Mesa, or another suitable location in San Diego County, CA.
+**First Location:** Escondido, San Marcos, Kearny Mesa, or another suitable location in San Diego County, CA.
 
 **Concept:** A coffee shop, restaurant, and bar with a twist: Patrons cannot buy anything for themselves. Instead, they must interact with others to arrange purchases for each other, fostering social connections and breaking down barriers to meeting new people.
 
