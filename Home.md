@@ -17,7 +17,7 @@ A website like myself would never be so impolite.
 
 Anyways, now that you're here, I'll do my best 一 as a website 一 to explain what the members are up to.
 
-I'll admit it's not entirely clear from their [[Business Cards|business cards]].
+I'll admit it's not entirely clear from their business cards.
 
 They're currently in the process of opening a business.
 
