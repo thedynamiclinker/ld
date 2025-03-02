@@ -1,4 +1,4 @@
-This is a less conventional addition to the business plan in [[Business Plan]].
+This is a less conventional addition to the business plan in [[business/Where To Find People]].
 
 In this page, we will outline our longer term goals for the business, both in our intentions for the physical locations, and for the technology wing that we intend to direct resources toward once the first physical locations are established.
 

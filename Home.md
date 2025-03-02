@@ -124,11 +124,3 @@ Nice meeting you, and thanks for reading me.
 Sincerely,
 
 -The Website
-
----
-
-P.S. There are some other webpages floating around in that sidebar over to the left. They're works in progress. No promises about what's in there, or whether it makes sense yet. Some of the members are open source software nerds, so they seem to think it's ok to just publish stuff that isn't done yet.
-
-Sincerely (again),
-
--TW

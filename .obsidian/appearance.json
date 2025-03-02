@@ -3,6 +3,7 @@
   "cssTheme": "Everforest",
   "theme": "obsidian",
   "enabledCssSnippets": [
+    "pdf",
     "ld"
   ],
   "baseFontSize": 16

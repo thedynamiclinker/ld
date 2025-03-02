@@ -1,4 +1,6 @@
 [
   "obsidian-advanced-slides",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-pandoc",
+  "obsidian-plugin-toc"
 ]
