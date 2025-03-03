@@ -47,13 +47,15 @@ The restaurants look like this:
 
 ![[restaurant-1.jpg]]
 
-The bars come in several varieties, but the majority are either:
+As for the bars, there are night clubs or party places.
 
-Night clubs or party locations, like this:
+They look something like this:
 
 ![[nightclub-1.jpg]]
 
-Breweries or tasting rooms, where the focus is almost entirely on the beer or wine itself.
+Then there are the breweries and tasting rooms, where the focus is all on the beer or wine itself.
+
+They look like this:
 
 ![[brewery-1-barn-door.jpg]]
 
@@ -63,7 +65,9 @@ They're places you go either (1) alone, or (2) with people you already know.
 
 They're not places that you can easily meet new people.
 
-And even when you do happen to meet someone new at such places, the locations themselves do not show any evidence of being designed for the specific purpose of helping you meet other people who you don't already know.
+And even when you do happen to meet someone new at such places, the locations themselves do not show any evidence of being designed for the specific purpose of helping you to meet other people who you didn't already know.
+
+When it happens, it's either a lucky accident, or because you specifically took the initiative yourself. The businesses themselves aren't designed to make it easier.
 
 In every single coffee shop or restaurant, you'll see the same social structure.
 
