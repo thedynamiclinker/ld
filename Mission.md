@@ -86,7 +86,7 @@ First of all, not everyone drinks.
 
 Second of all, even for those who do drink, the human desire to meet new people goes far beyond the times of day when one is interested in drinking alcohol.
 
-So how do you design a place that makes it easy to meet new people, for everyone, morning noon and night?
+So how do you design a place that makes it easy to meet new people, for everyone: morning, noon, and night?
 
 Go back to that mental image of your local coffee shop, restaurant, or bar.
 
