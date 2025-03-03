@@ -107,3 +107,7 @@ This is precisely the problem we intend to solve.
 For physical locations we are currently working on opening, see:
 - [[WTF People]]
 - [[The Internet]]
+
+## Contact Us
+
+Email: root@thedynamiclinker.com
