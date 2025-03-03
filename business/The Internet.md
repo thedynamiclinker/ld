@@ -88,7 +88,7 @@ _The internet you know and love is opening its first physical location!_
 
 ---
 
-## Revenue Model
+## Financial Plan
 
 **Primary Revenue Streams**
 
@@ -96,14 +96,35 @@ _The internet you know and love is opening its first physical location!_
 2. **Table Hosting Fees:** Variable pricing based on time and demand.
 3. **Subscription Model:** Discounts for pre-purchased hosting hours.
 
+**Startup Costs:**
 
-**Projected Costs**
+- Lease Deposit: $10,000
+- Renovations/Decor: $20,000
+- Furniture/Equipment: $30,000
+- Alcohol License: $7,000 including lawyer's fees.
+- Marketing: $3,000
+- Initial Inventory: $10,000
+- Unexpected Expenses: $20,000
 
-- Lease & Utilities: $5,000 per month (based on location)
-- Staffing: $20,000 per month
-- Equipment & Technology: $20,000 upfront, $500 monthly maintenance
-- Licensing & Permits: $10,000 upfront
-- Marketing & Advertising: $1,000 monthly
+Total Startup Costs: $100,000
+
+**Projected Monthly Revenue:**  
+
+- Average customer spend: $25
+- Estimated customers per day: 100
+- Monthly Revenue: $75,000
+
+**Projected Monthly Expenses:**
+
+- Rent: $5,000
+- Salaries: $15,000
+- Inventory: $10,000
+- Utilities: $1,000
+- Marketing: $2,000
+- Miscellaneous: $2,000
+
+Total Monthly Expenses: $35,000
+
 
 ---
 ## Marketing Strategy

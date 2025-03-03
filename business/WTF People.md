@@ -179,7 +179,8 @@ Total Startup Costs: $100,000
 - Utilities: $1,000
 - Marketing: $2,000
 - Miscellaneous: $2,000
-**Total Monthly Expenses:** $20,000 per month, then $40,000 after hiring staff.
+
+Total Monthly Expenses: $20,000 per month, then $40,000 after hiring staff.
 
 **Break-Even Point:**  
 - ~2 months if the above startup costs are accurate.
