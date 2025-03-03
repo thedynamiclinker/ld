@@ -1,9 +1,8 @@
 
 ![[ld.png]]
-
 ## The Problem
 
-Where are you supposed to meet new people these days?
+Where are we supposed to meet new people these days?
 
 This question is asked [[Where To Find People|countless times]] a day, on every online platform.
 
@@ -66,7 +65,7 @@ The closest exception is the neighborhood bar, which tends to look something lik
 ![[neighborhood-bar-1.jpg]]
 
 
-These locations tend to have brighter lights and quieter music than the nightclub variety. They tend to serve more standardized beers and wines, unlike the artisanal craft breweries and tasting rooms. They are the closest thing to a business that is optimized for meeting new people. And yet even these places completely fail to solve the problem in any general sense.
+These locations are the closest thing to a business that is optimized for meeting new people. And yet even these places completely fail to solve the problem in any general sense.
 
 First of all, not everyone drinks.
 
@@ -84,24 +83,51 @@ Picture a guy on a laptop with his headphones in.
 
 How do you take that exact mental image, and make the smallest possible change that will get those people talking to each other?
 
-How do you break the imaginary walls between them, and make a place where it doesn't feel awkward to approach the small group, or the phone girl, or the laptop guy?
+How do you break the thick imaginary walls between them, and create a place where it doesn't feel awkward to approach the small group, or the phone girl, or the laptop guy?
 
 This is precisely the problem we intend to solve.
 
+---
 ## The Solution
 
-In summary, the modern world can be a pretty lonely place.
+The modern world can be a pretty lonely place.
 
-We believe this is not an inevitable result of human psychology, smartphones, or modern society overall.
+![[loneliness-collage-youtube-3.jpg]]
 
-We believe the loneliness of modern life is a direct consequence of the nonexistence of a certain class of place 一 specifically a certain class of business 一 often called a Third Place.
+We believe this is not an inevitable result of human psychology, or smartphones, or modern society overall.
+
+![[loneliness-collage-youtube-1.jpg]]
+
+We believe the loneliness of modern life is a direct consequence of the nonexistence of a certain type of place 一 specifically a certain type of business 一 often called a Third Place.
+
+![[loneliness-collage-youtube-5.jpg]]
 
 It is those businesses that we aim to create.
 
 We believe that every other business currently in existence is failing to address this problem, including the ones that claim to be "[reclaiming the third place](https://stories.starbucks.com/emea/stories/2024/reclaiming-third-places-our-bold-vision-for-community-stores/)."
 
-## Locations
+We intend to do things differently.
 
-For physical locations we are currently working on opening, see:
+We're currently working on opening several physical locations.
+
+These will not just be another theme restaurant, or bar with different decor.
+
+By combining world class experts in experimental cognitive and mating psychology, we intend to engineer social spaces that lead to different social dynamics than other food or drink establishments.
+
+That was a lot of marketing buzzwords. Let's rephrase that.
+
+Every location we open aims to solve a simple problem:
+
+- Starting from a conventional business model, like a coffee shop, restaurant, or bar.
+- Add some simple rule or constraint that applies inside the business, with the goal of removing the awkwardness of interacting with strangers.
+
+The resulting businesses must be both:
+
+1. Profitable enough to sustain and grow, and
+2. Not simply lead to a room full of individuals on their laptops, phones, or in small groups of people that already knew when they arrived together. That is, it must be more comfortable, in each business, to interact with others, than it is to avoid doing so, for the largest possible range of individual personality types.
+
+If any of our locations fails to achieve this goal, then we have failed.
+
+For some of the locations we are currently working on opening, see:
 - [[WTF People]]
 - [[The Internet]]
