@@ -25,9 +25,9 @@ Picture any business park or plaza. The places that look like this:
 
 Now mentally delete the places that aren't social to begin with.
 
-Cross out the grocery stores, convenience stores, pharmacies, chiropractors, massage parlors, salons, barbers, pet stores, and dentists.[^1]
+Cross out the grocery stores, convenience stores, pharmacies, chiropractors, massage parlors, salons, barbers, pet stores, and dentists.
 
-[^1]: To be clear, of course it's _possible_ to meet new people at the dentist. But going to the dentist in an attempt to meet new people would be sufficient for a diagnosis of delusional over-optimism. Grocery stores may be a better place to approach strangers, but that does not mean those businesses have been designed to service that need.
+Sure, it's _possible_ to meet new people at the dentist. But going to the dentist in an attempt to meet new people would be sufficient for a diagnosis of delusional over-optimism.
 
 So, which businesses are left, after we cross out all the obvious non-starters?
 
@@ -61,9 +61,9 @@ Every one of these businesses has the same problem.
 
 They're places you go either (1) alone, or (2) with people you already know.
 
-They're not places that you can easily meet new people.[^2]
+They're not places that you can easily meet new people.
 
-[^2]: It is worth taking a moment to further elaborate on the claim that nightclubs and live music events are not optimized to solve the problem of meeting new people. Night clubs, live music events, and party focused bars -- the bars more likely to have louder music and dim lights -- are well optimized for something, but that something is not meeting new people. They give the patrons a limited category of excuse to gently exceed the social norms and boundaries that are the default outside. They do this by providing a plausibly deniable excuse to push past everyday social norms of personal space and physical closeness. For example, needing to lean in closer in order to be heard by one's date because the music is too loud, needing to be physically closer because the density of people is so high that there is no alternative, the presence of dim lights, not to mention all the obvious social lubricant functions of alcohol. We would argue that the fundamental human need of meeting new people is infinitely broader than anything that is provided by these nightclubs or party style bars. Leaving aside the fact that not everyone drinks, these locations are nowhere near a general solution to that problem, even for those who do.
+And even when you do happen to meet someone new at such places, the locations themselves do not show any evidence of being designed for the specific purpose of helping you meet other people who you don't already know.
 
 In every single coffee shop or restaurant, you'll see the same social structure.
 
