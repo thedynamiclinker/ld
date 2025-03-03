@@ -50,15 +50,11 @@ The restaurants look like this:
 
 ![[restaurant-1.jpg]]
 
-As for the bars, there are night clubs or party places.
-
-They look something like this:
+As for the bars, the night clubs and party bars look something like this:
 
 ![[nightclub-1.jpg]]
 
-Then there are the breweries and tasting rooms, where the focus is all on the beer or wine itself.
-
-They look like this:
+Then there are the breweries and tasting rooms, where the focus is all on the beer or wine itself. They look something like this:
 
 ![[brewery-1-barn-door.jpg]]
 
@@ -87,7 +83,7 @@ These locations tend to have brighter lights and quieter music than the nightclu
 
 First of all, not everyone drinks.
 
-Second of all, even for those who do drink, the human desire to meet new people goes far beyond the times of day when one is interested in drinking alcohol.
+Second of all, even for those of us who do drink, the human desire to meet new people goes far beyond the times of day when one is interested in drinking alcohol.
 
 So how do you design a place that makes it easy to meet new people, for everyone: morning, noon, and night?
 
