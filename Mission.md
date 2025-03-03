@@ -1,14 +1,17 @@
-## Mission Statement
+![[ld.png]]
 
-The modern world is a desperately lonely place. We believe this is not an inevitable result of human psychology, nor of capitalism, nor of mental health, or microplastics, or pharmaceutical drugs, or smartphones (though this is the closest one to a proper culprit), or any of the other things commonly blamed for this problem.
 
-We believe the loneliness of modern life is a direct consequence of the nonexistence of a certain class of business.
+The modern world is a desperately lonely place. We believe this is not an inevitable result of human psychology, or smartphones, or modern society overall.
 
-It is those businesses that we aim to create. We intend to do so, because we believe that every other business currently in existence is pathetically failing to address this problem.
+We believe the loneliness of modern life is a direct consequence of the nonexistence of a certain class of place 一 specifically a certain class of business 一 often called a Third Place.
 
-But first, let's state more completely the nature of the problem.
+It is those businesses that we aim to create.
 
-## Problem Statement
+We intend to do so, because we believe that every other business currently in existence is pathetically failing to address this problem, including the ones that claim to be "[reclaiming the third place](https://stories.starbucks.com/emea/stories/2024/reclaiming-third-places-our-bold-vision-for-community-stores/)."
+
+But first, let's state the nature of the problem more completely.
+
+## The Problem
 
 Where are you supposed to meet new people these days?
 
@@ -97,6 +100,6 @@ This is precisely the problem we intend to solve.
 
 ## Locations
 
-For locations we are currently working on opening, see:
-- [[Where To Find People]]
+For physical locations we are currently working on opening, see:
+- [[WTF People]]
 - [[The Internet]]

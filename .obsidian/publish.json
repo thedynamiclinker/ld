@@ -3,6 +3,6 @@
   "host": "publish-01.obsidian.md",
   "included": [],
   "excluded": [
-    "to-add"
+    "exclude"
   ]
 }
