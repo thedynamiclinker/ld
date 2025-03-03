@@ -1,7 +1,10 @@
+
 ![[ld.png]]
 
 
-The modern world is a desperately lonely place. We believe this is not an inevitable result of human psychology, or smartphones, or modern society overall.
+The modern world is a desperately lonely place.
+
+This is not an inevitable result of human psychology, smartphones, or modern society overall.
 
 We believe the loneliness of modern life is a direct consequence of the nonexistence of a certain class of place 一 specifically a certain class of business 一 often called a Third Place.
 
@@ -80,7 +83,7 @@ The closest exception is the neighborhood bar, which tends to look something lik
 ![[neighborhood-bar-1.jpg]]
 
 
-These locations tend to have brighter lights and quieter music than the nightclub variety. They tend to serve more standardized beers and wines, unlike the artisanal craft breweries and tasting rooms. They are the closest thing to a business that is optimized for meeting new people. And yet even these places fail miserably to solve that problem in general.
+These locations tend to have brighter lights and quieter music than the nightclub variety. They tend to serve more standardized beers and wines, unlike the artisanal craft breweries and tasting rooms. They are the closest thing to a business that is optimized for meeting new people. And yet even these places completely fail to solve the problem in any general sense.
 
 First of all, not everyone drinks.
 

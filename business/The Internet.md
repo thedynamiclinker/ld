@@ -77,7 +77,6 @@ _The internet you know and love is opening its first physical location!_
 - A focus on Spam as a running joke, with staff humorously acknowledging its presence.
 - Coffee service during the day, transitioning to beer and wine in the evenings.
 
-
 **Key Features**
 
 - **Thread-Based Dining:** Guests can join table discussions based on their interests.
