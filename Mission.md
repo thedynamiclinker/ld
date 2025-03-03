@@ -1,19 +1,6 @@
 
 ![[ld.png]]
 
-
-The modern world is a desperately lonely place.
-
-This is not an inevitable result of human psychology, smartphones, or modern society overall.
-
-We believe the loneliness of modern life is a direct consequence of the nonexistence of a certain class of place 一 specifically a certain class of business 一 often called a Third Place.
-
-It is those businesses that we aim to create.
-
-We intend to do so, because we believe that every other business currently in existence is pathetically failing to address this problem, including the ones that claim to be "[reclaiming the third place](https://stories.starbucks.com/emea/stories/2024/reclaiming-third-places-our-bold-vision-for-community-stores/)."
-
-But first, let's state the nature of the problem more completely.
-
 ## The Problem
 
 Where are you supposed to meet new people these days?
@@ -100,6 +87,18 @@ How do you take that exact mental image, and make the smallest possible change t
 How do you break the imaginary walls between them, and make a place where it doesn't feel awkward to approach the small group, or the phone girl, or the laptop guy?
 
 This is precisely the problem we intend to solve.
+
+## The Solution
+
+In summary, the modern world can be a pretty lonely place.
+
+We believe this is not an inevitable result of human psychology, smartphones, or modern society overall.
+
+We believe the loneliness of modern life is a direct consequence of the nonexistence of a certain class of place 一 specifically a certain class of business 一 often called a Third Place.
+
+It is those businesses that we aim to create.
+
+We believe that every other business currently in existence is failing to address this problem, including the ones that claim to be "[reclaiming the third place](https://stories.starbucks.com/emea/stories/2024/reclaiming-third-places-our-bold-vision-for-community-stores/)."
 
 ## Locations
 
