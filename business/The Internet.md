@@ -8,7 +8,7 @@ _The internet you know and love is opening its first physical location!_
 
 **Business Name:** The Internet
 
-**Description:** A Post-Apocalyptic Bar and Grill
+**Description:** A Post Apocalyptic Bar and Grill
 
 **Concept:** A restaurant, bar, and coffee shop. Operates like an online forum, but in person.
 
