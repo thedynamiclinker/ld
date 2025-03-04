@@ -135,5 +135,5 @@ After all, if there's one thing that people of all ages agree on these days, it'
 Let's fix that.
 
 For some of the locations we are currently working on opening, see:
-- [[WTF People]]
 - [[The Internet]]
+- [[WTF People]]
