@@ -49,7 +49,7 @@ _The internet you know and love is opening its first physical location!_
 
 We plan to allocate part of the menu to explain how the concept of an "Online Forum, but in person" works.
 
-To illustrate, imagine a first time customer walks around the establishment, and they see people at tables eating or drinking. As they pass the different tables, they see the following posts, one per table, on a small TV adjoining each one.
+To illustrate, imagine a first time customer walks around the establishment, and they see people at tables eating or drinking. As they pass the different tables, they see the following posts, one per table, on small (20"-30") TVs attached to the wall above each table.
 
 The first table's TV might say:
 
@@ -61,7 +61,7 @@ Suppose the new customer isn't a dog owner, so they keep browsing and see each o
 
 - Confused about physics homework. Help!
 
-- I'm looking to open a restaurant but I'm knew to the industry. Anyone have any experience running a restaurant?
+- We're looking to open a restaurant but we're knew to the industry. Anyone have any experience running a restaurant?
 
 - Vietnam war veteran. Ask me anything.
 
@@ -71,7 +71,7 @@ Suppose the new customer isn't a dog owner, so they keep browsing and see each o
 
 The content of the posts is up to the customers, and is limited only by their creativity and by a few common sense moderation rules.
 
-Despite being novel for a food and drink establishment, we believe most visitors will find the concept easy to understand once they see it, due to the widespread familiarity with online forums and social media posts with replies.
+Despite being novel for a food and drink establishment, we believe most visitors will find the concept easy to understand once they see it, due to the widespread familiarity with online forums and social media posts.
 
 In this case, however, the posts and replies occur in person, allowing social interactions and human connections to be forged.
 
