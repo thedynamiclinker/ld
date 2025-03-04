@@ -104,7 +104,7 @@ We believe the loneliness of modern life is a direct consequence of the nonexist
 
 It is those businesses that we aim to create.
 
-We believe that every other business currently in existence is failing to address this problem, including the ones that claim to be "[reclaiming the third place](https://stories.starbucks.com/emea/stories/2024/reclaiming-third-places-our-bold-vision-for-community-stores/)."
+We believe that every other business currently in existence is pathetically failing to address this problem, including the ones that claim to be "[reclaiming the third place](https://stories.starbucks.com/emea/stories/2024/reclaiming-third-places-our-bold-vision-for-community-stores/)."
 
 We intend to do things differently.
 

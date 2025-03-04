@@ -35,11 +35,11 @@ _The internet you know and love is opening its first physical location!_
 - Each table has a small TV on the wall next to it, on which that table's post will appear.
 - At any given time, the host of each table is responsible for that table's "post."
 - A table's post can be a question, a comment, a rant, a meme, or any other user-generated content, within reason.
-- People can come in, see what threads (questions, thoughts, rants, etc.) are currently posted above each table, and talk to whichever OP they're currently interested in responding to.
+- People can come in, see what threads (questions, thoughts, rants, etc.) are currently posted above each table, and talk to whichever OP (table host) they're currently interested in responding to.
 - Optionally, for conversations lasting longer than a few moments, a person may sit down at a given thread and order food or drinks, and contribute to the discussion around the topic of that table.
 - The cost of hosting a table will vary as a function of demand, from no cost in low-traffic hours, up to $50/hour depending on congestion and demand.
 - We will offer monthly subscriptions for a certain number of post-hours per month. A monthly subscription offers a discount relative to standard pricing, possibly outside of peak hours depending on demand. This gives the business a potential for more stable monthly income for no additional input cost.
-- Optionally, the back half of the establishment may be marked off as the NSFW section, allowing a wider range of post topics than the more family-friendly SFW area in the front. Alternatively, the entire establishment may become the NSFW section on certain nights, or every night after a specific time.
+- Optionally, part of the establishment may be marked off as the NSFW section, allowing a wider range of post topics than the more family-friendly SFW area in the front. Alternatively, the entire establishment may become the NSFW section on certain nights, or every night after a specific time.
 - Customers are called Clients. Servers are called Servers.
 - The "Employees Only" section is called the Backend.
 - A large number of cans of Spam will be stacked behind the counter, and Spam will feature prominently in the initial menu. Staff will apologize and promise that we're trying to reduce the amount of Spam. The Spam will never be fully eliminated.
@@ -48,9 +48,9 @@ _The internet you know and love is opening its first physical location!_
 **Location Requirements**
 
 - 2,000-3,000 sq. ft.
-- Accessible, high-foot-traffic area
-- Mixed-use zoning for food and alcohol service
-- Ability to install digital displays and internet-themed decor
+- Accessible, high-foot-traffic area.
+- Mixed-use zoning for food and alcohol service.
+- Ability to install digital displays and internet-themed decor.
 
 **Target Market**
 
@@ -135,15 +135,10 @@ Total Monthly Expenses: $35,000
 **Marketing Channels**
 
 - **Social Media Campaigns:** Leveraging memes, internet culture, and targeted ads.
-    
 - **Influencer & Community Partnerships:** Engaging tech influencers and local social groups.
-    
 - **Referral Program:** Discounts for customers who bring friends.
-    
 - **Local Event Sponsorships:** Partnering with tech meetups, universities, and networking groups.
-    
 - **Grand Opening & Launch Events:** Themed events to generate initial buzz.
-    
 
 ---
 
