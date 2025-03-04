@@ -40,10 +40,6 @@ _The internet you know and love is opening its first physical location!_
 - The cost of hosting a table will vary as a function of demand, from no cost in low-traffic hours, up to $50/hour depending on congestion and demand.
 - We will offer monthly subscriptions for a certain number of post-hours per month. A monthly subscription offers a discount relative to standard pricing, possibly outside of peak hours depending on demand. This gives the business a potential for more stable monthly income for no additional input cost.
 - Optionally, part of the establishment may be marked off as the NSFW section, allowing a wider range of post topics than the more family-friendly SFW area in the front. Alternatively, the entire establishment may become the NSFW section on certain nights, or every night after a specific time.
-- Customers are called Clients. Servers are called Servers. A convenient pun borrowed from the meanings of [client](https://en.wikipedia.org/wiki/Client_(computing)) and [server](https://en.wikipedia.org/wiki/Server_(computing) in internet networking.
-- The "Employees Only" section is called the [backend](https://en.wikipedia.org/wiki/Frontend_and_backend).
-- A large number of cans of [Spam](https://en.wikipedia.org/wiki/Spam_(food)) will be stacked behind the counter, and Spam will feature prominently in the initial menu. Staff will apologize and promise that we're trying to reduce the amount of Spam. The Spam will never be fully eliminated, as is [appropriate](https://en.wikipedia.org/wiki/Messaging_spam) for a location called The Internet.
-- The ceiling of the business will be painted like the sky, with the logo of now defunct [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) taking the place of the sun, and the logos of various cloud computing companies taking the place of the clouds.
 
 **Examples of the Concept**
 
@@ -92,6 +88,13 @@ In this case, however, the posts and replies occur in person, allowing social in
 - **Tech Enthusiasts & Gamers:** Drawn to the internet culture theme.
 - **Remote Workers & Digital Nomads:** Looking for a social work-friendly space.
 - **Casual Socializers:** People looking for a new and entertaining dining experience.
+
+**Internet Related Terminology and Decor**
+
+- A large number of cans of [Spam](https://en.wikipedia.org/wiki/Spam_(food)) will be stacked behind the counter, and Spam will feature prominently in the initial menu. Staff will apologize and promise that we're trying to reduce the amount of Spam. The Spam will never be fully eliminated, as is [appropriate](https://en.wikipedia.org/wiki/Messaging_spam) for a location called The Internet.
+- Customers are called Clients. Servers are called Servers. A convenient pun borrowed from the meanings of [client](https://en.wikipedia.org/wiki/Client_(computing)) and [server](https://en.wikipedia.org/wiki/Server_(computing) in internet networking.
+- The "Employees Only" section is called the [backend](https://en.wikipedia.org/wiki/Frontend_and_backend).
+- The ceiling of the business will be painted like the sky, with the logo of now defunct [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) taking the place of the sun, and the logos of various cloud computing companies taking the place of the clouds.
 
 ---
 
