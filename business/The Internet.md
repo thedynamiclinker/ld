@@ -45,6 +45,37 @@ _The internet you know and love is opening its first physical location!_
 - A large number of cans of Spam will be stacked behind the counter, and Spam will feature prominently in the initial menu. Staff will apologize and promise that we're trying to reduce the amount of Spam. The Spam will never be fully eliminated.
 - The ceiling of the business will be painted like the sky, with the logo of now defunct Sun Microsystems taking the place of the sun, and the logos of various defunct cloud computing companies taking the place of the clouds.
 
+**Examples of the Concept**
+
+We plan to allocate part of the menu to explain how the concept of an "Online Forum, but in person" works.
+
+To illustrate, imagine a first time customer walks around the establishment, and they see people at tables eating or drinking. As they pass the different tables, they see the following posts, one per table, on a small TV adjoining each one.
+
+The first table's TV might say:
+
+- Starting a doggy day care business in my house nearby. Dog owners come talk to me!
+
+Suppose the new customer isn't a dog owner, so they keep browsing and see each of the following.
+
+- New to town, looking for folks to hang out with.
+
+- Confused about physics homework. Help!
+
+- I'm looking to open a restaurant but I'm knew to the industry. Anyone have any experience running a restaurant?
+
+- Vietnam war veteran. Ask me anything.
+
+- This news about Elon and Doge is nuts. What do you guys think?
+
+- This table is now a poker game. Loser buys the next round.
+
+The content of the posts is up to the customers, and is limited only by their creativity and by a few common sense moderation rules.
+
+Despite being novel for a food and drink establishment, we believe most visitors will find the concept easy to understand once they see it, due to the widespread familiarity with online forums and social media posts with replies.
+
+In this case, however, the posts and replies occur in person, allowing social interactions and human connections to be forged.
+
+
 **Location Requirements**
 
 - 2,000-3,000 sq. ft.
@@ -66,9 +97,9 @@ _The internet you know and love is opening its first physical location!_
 
 **Hours of Operation**
 
-- **Weekdays:** 11 AM - 11 PM
-- **Weekends:** 9 AM - 2 AM
-- **Flexible NSFW section hours:** Back half of the venue can be designated NSFW or SFW based on demand.
+- **Weekdays:** 6 AM - 2 AM
+- **Weekends:** 6 AM - 2 AM
+- May be adjusted based on demand.
 
 
 **Menu & Services**
