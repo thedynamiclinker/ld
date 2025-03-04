@@ -40,14 +40,14 @@ _The internet you know and love is opening its first physical location!_
 - The cost of hosting a table will vary as a function of demand, from no cost in low-traffic hours, up to $50/hour depending on congestion and demand.
 - We will offer monthly subscriptions for a certain number of post-hours per month. A monthly subscription offers a discount relative to standard pricing, possibly outside of peak hours depending on demand. This gives the business a potential for more stable monthly income for no additional input cost.
 - Optionally, part of the establishment may be marked off as the NSFW section, allowing a wider range of post topics than the more family-friendly SFW area in the front. Alternatively, the entire establishment may become the NSFW section on certain nights, or every night after a specific time.
-- Customers are called Clients. Servers are called Servers.
-- The "Employees Only" section is called the Backend.
-- A large number of cans of Spam will be stacked behind the counter, and Spam will feature prominently in the initial menu. Staff will apologize and promise that we're trying to reduce the amount of Spam. The Spam will never be fully eliminated.
-- The ceiling of the business will be painted like the sky, with the logo of now defunct Sun Microsystems taking the place of the sun, and the logos of various defunct cloud computing companies taking the place of the clouds.
+- Customers are called Clients. Servers are called Servers. A convenient pun borrowed from the meanings of [client](https://en.wikipedia.org/wiki/Client_(computing)) and [server](https://en.wikipedia.org/wiki/Server_(computing) in internet networking.
+- The "Employees Only" section is called the [backend](https://en.wikipedia.org/wiki/Frontend_and_backend).
+- A large number of cans of [Spam](https://en.wikipedia.org/wiki/Spam_(food)) will be stacked behind the counter, and Spam will feature prominently in the initial menu. Staff will apologize and promise that we're trying to reduce the amount of Spam. The Spam will never be fully eliminated, as is [appropriate](https://en.wikipedia.org/wiki/Messaging_spam) for a location called The Internet.
+- The ceiling of the business will be painted like the sky, with the logo of now defunct [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) taking the place of the sun, and the logos of various cloud computing companies taking the place of the clouds.
 
 **Examples of the Concept**
 
-We plan to allocate part of the menu to explain how the concept of an "Online Forum, but in person" works.
+We plan to allocate part of the menu to explain how the concept of an "Online Forum, but in person" works in practice.
 
 To illustrate, imagine a first time customer walks around the establishment, and they see people at tables eating or drinking. As they pass the different tables, they see the following posts, one per table, on small (20"-30") TVs attached to the wall above each table.
 
@@ -55,11 +55,13 @@ The first table's TV might say:
 
 - Starting a doggy day care business in my house nearby. Dog owners come talk to me!
 
-Suppose the new customer isn't a dog owner, so they keep browsing and see each of the following.
-
-- New to town, looking for folks to hang out with.
+A student sits on her laptop with a coffee at the next table, under a post saying:
 
 - Confused about physics homework. Help!
+
+The remaining tables might say things like:
+
+- New to town, looking for folks to hang out with.
 
 - We're looking to open a restaurant but we're knew to the industry. Anyone have any experience running a restaurant?
 
@@ -67,7 +69,7 @@ Suppose the new customer isn't a dog owner, so they keep browsing and see each o
 
 - This news about Elon and Doge is nuts. What do you guys think?
 
-- This table is now a poker game. Loser buys the next round.
+- Bored. This table is now a poker game. Beat me and I'll buy your next drink.
 
 The content of the posts is up to the customers, and is limited only by their creativity and by a few common sense moderation rules.
 
