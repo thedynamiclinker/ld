@@ -126,7 +126,11 @@ The resulting businesses must be both:
 1. Profitable enough to sustain and grow, and
 2. Not simply lead to a room full of individuals on their laptops, phones, or in small groups of people that already knew when they arrived together. That is, it must be more comfortable, in each business, to interact with others, than it is to avoid doing so, for the largest possible range of individual personality types.
 
-If any of our locations fails to achieve this goal, then we have failed.
+If any of our locations fails to achieve this goal, then that location will have failed.
+
+That's ok. We're not afraid to fail a few times. But we will continue believe in this mission whether or first attempts succeed or fail.
+
+After all, if there's one thing that people of all ages agree on, it's that people these days don't seem to talk to each other like they used to. Let's fix that.
 
 For some of the locations we are currently working on opening, see:
 - [[WTF People]]
