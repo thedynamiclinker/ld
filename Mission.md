@@ -1,8 +1,14 @@
 
 ![[ld.png]]
+
+> _“There will come a day when you feel crushed by the burden of modern life, and your bright spirit will fade before a growing emptiness. When that happens, you’ll be ready for this gift."_
+> -Stardew Valley
+
 ## The Problem
 
-Where are we supposed to meet new people these days?
+There's one fact that everyone of all ages agrees on: People don't seem to talk to each other like they used to.
+
+So, where are we supposed to meet new people these days?
 
 This question is asked [[Where To Find People|countless times]] a day, on every online platform.
 
