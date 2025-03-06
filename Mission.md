@@ -116,10 +116,6 @@ We intend to do things differently.
 
 We're currently working on opening several physical locations.
 
-These will not just be another theme restaurant, or bar with different decor.
-
-By combining world class experts in experimental cognitive and mating psychology, we intend to engineer social spaces that lead to different social dynamics than other food or drink establishments.
-
 That was a lot of marketing buzzwords. Let's rephrase that.
 
 Every location we open aims to solve a simple problem:
@@ -130,15 +126,11 @@ Every location we open aims to solve a simple problem:
 The resulting businesses must be both:
 
 1. Profitable enough to sustain and grow, and
-2. Not simply lead to a room full of individuals on their laptops, phones, or in small groups of people that already knew each other when they arrived together. That is, it must be more comfortable, in each business, to interact with others than it is to avoid doing so, for the largest possible range of individual personality types.
+2. Not simply lead to a room full of individuals on their laptops, phones, or in small groups of people that already knew each other when they arrived together.
 
-If any of our locations fails to achieve both of these goals, then that location will have failed in our eyes.
+That is, it must be more comfortable, in each business, to interact with strangers than it is to avoid doing so, for the largest possible range of individual personality types. And this feature must be present at all times of day, not only during the afternoons and evenings when it's the perfect time for a few drinks.
 
-That's ok. We're not afraid to fail a few times. But we will continue believe in this mission whether our initial attempts succeed or fail.
-
-After all, if there's one thing that people of all ages agree on these days, it's that people don't seem to talk to each other like they used to.
-
-Let's fix that.
+After all, if there's one thing that people of all ages agree on these days, it's that people don't seem to talk to each other like they used to. Let's fix that.
 
 For some of the locations we are currently working on opening, see:
 - [[The Other Place]]
