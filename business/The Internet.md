@@ -12,7 +12,7 @@ _The internet you know and love is opening its first physical location!_
 
 **Concept:** A restaurant, bar, and coffee shop. Operates like an online forum, but in person.
 
-**Location:** Escondido, San Marcos, Kearny Mesa, or another suitable location within San Diego County.
+**Location:** Clairemont Mesa, San Marcos, Kearny Mesa, Oceanside, or another suitable location within San Diego County.
 
 **Market Opportunity:** Many people struggle to meet new people in public spaces due to social norms discouraging spontaneous interaction. The Internet solves this by providing a space where talking to strangers is the rule, not the exception.
 
