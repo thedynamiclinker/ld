@@ -1,16 +1,14 @@
 
-_Where exactly are we supposed to meet people these days?_
+_A place where the other people need your help, and vice-versa._
 
 ---
 # Business Plan
 
 ## Executive Summary
 
-**Business Name:** Where To Find People
+**Business Name:** The Other Place
 
-- Abbreviated on merchandise as "WTF People"
-
-**First Location:** Escondido, San Marcos, Kearny Mesa, or another suitable location in San Diego County, CA.
+**First Location:** Clairemont Mesa, Rancho Penasquitos, Oceanside, Kearny Mesa, or another suitable location in San Diego County, CA.
 
 **Concept:** A coffee shop, restaurant, and bar with a twist: Patrons cannot buy anything for themselves. Instead, they must interact with others to arrange purchases for each other, fostering social connections and breaking down barriers to meeting new people.
 
@@ -18,7 +16,7 @@ _Where exactly are we supposed to meet people these days?_
 
 **Alcohol License:** California Type 41 (Beer and Wine, no Liquor).
 
-**Size:** 2,000–3,000 sq ft.
+**Size:** 1,500–2,500 sq ft.
 
 **Mission Statement:** To create a space optimized for meeting new people, and for overcoming the modern challenges of social isolation and awkwardness when approaching someone new in public spaces.
 
@@ -92,7 +90,7 @@ However, we expect the competition from such venues to be limited, and we expect
 
 **Competitive Advantage:**
 
-- A novel concept that differentiates Where To Find People from traditional venues.
+- A novel concept that differentiates The Other Place from traditional venues.
 
 - A focus on solving a real social problem, not just providing food and drinks.
 
@@ -220,4 +218,4 @@ Total Monthly Expenses: $20,000 per month, then $40,000 after hiring staff.
 
 ## Conclusion
 
-Where To Find People is more than just a restaurant and bar—it’s a solution to the modern problem of social isolation. By creating a space where interaction is not only encouraged but required, we aim to foster meaningful connections and build a loyal community of patrons. With a clear vision, a unique concept, and a solid financial plan, Where To Find People is poised to become a standout destination in San Diego County and beyond.
+The Other Place is more than just another coffee shop, restaurant, or bar—it’s a solution to the modern problem of social isolation. By creating a space where interaction is not only encouraged but required, we aim to foster meaningful connections and build a loyal community of patrons. With a clear vision, a unique concept, and a solid financial plan, The Other Place is poised to become a standout destination in San Diego County and beyond.
