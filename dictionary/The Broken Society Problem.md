@@ -56,10 +56,4 @@ We cannot fix the larger society. It's too heavy, and like all large dead animal
 
 We can, however, build something new, smaller, and most importantly, local.
 
-For a preliminary sketch of what we plan to build, see [[business/Where To Find People]].
-
-For longer term plans, see [[Business Plan - Long Term]].
-
-And for some funny pictures, see [[Asshole Topology]].
-
-Ok I've got to run. Good luck out there. Thanks for reading.
+For a preliminary sketch of what we plan to build, see [[The Other Place]], [[The Internet]], and [[The Other Mission]].

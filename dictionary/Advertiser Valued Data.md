@@ -1,0 +1,1 @@
+Any data possessed by a platform about a given user A which is potentially of value to advertisers, but not necessarily of value to any other user B of that same platform.

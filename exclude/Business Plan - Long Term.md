@@ -99,11 +99,11 @@ Given the relatively large amounts that we intend to distribute to the top 5 ran
 ### Goal
 At this point, we intend to fund the creation of a web and mobile app that would be difficult or impossible to create without the tight-knit coalitions above, and their weekly drive to learn as much about one another as possible with the help of an ancient social lubricant.
 
-The result of the trivia era is that a large quantity of [[Implicit Attribute|implicit attributes]] of the individual participants have been [[Information Mining|mined]], thus providing a potential solution to the [[The Implicit Attributes Problem]].
+The result of the trivia era is that a large quantity of [[Implicit Attribute|implicit attributes]] of the individual participants have been [[Information Mining|mined]], thus providing a potential solution to the [[The Implicit Attributes Problem - Old]].
 
 (See links for background on the problems and terminology mentioned above.)
 
-To our knowledge, this would be the first attempt in history to provide a global solution to the [[The Implicit Attributes Problem]].
+To our knowledge, this would be the first attempt in history to provide a global solution to the [[The Implicit Attributes Problem - Old]].
 
 By incentivising [[Information Mining]] in the quantities described above, we aim to enable the creation of a new kind of social search app that taps into an immeasurably deeper set of individual-specific information than any existing app for any social purpose. We aim to make each such (previously implicit) attribute opt-in for global searchability by each participant, and to allow others anywhere in the world to find the individuals in question based on those opt-in attributes without publishing them to any public profile or bio.
 

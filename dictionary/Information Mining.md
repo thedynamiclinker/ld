@@ -1,11 +1,5 @@
-The process of making the [[Implicit Attribute|Implicit Attributes]] of a person explicit.
+Information Mining. (verb).
 
-There are two kinds of implicit attributes: self-explicit and self-implicit.
+The process of making the [[Implicit Attribute|Implicit Attributes]] of a person explicit through any process.
 
-## Self-explicit
-
-TODO
-
-## Self-implicit
-
-TODO.
+Different methods may be required to mine the three distinct types of implicit attributes discussed [[Implicit Attribute|here]].

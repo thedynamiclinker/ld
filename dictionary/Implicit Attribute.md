@@ -1,3 +1,5 @@
+## Definition
+
 An implicit attribute is any truth about you that is not explicitly stated in any of your online profiles, nor directly observable from your physical appearance.
 
 In other words, an implicit attribute is any truth about you that is not publicly available.

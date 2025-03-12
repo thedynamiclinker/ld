@@ -1,14 +1,19 @@
 
 ![[ld.png]]
 
-> _“There will come a day when you feel crushed by the burden of modern life, and your bright spirit will fade before a growing emptiness. When that happens, you’ll be ready for this gift."_
-> -Stardew Valley
+## Tl;dr
+
+Our mission is to connect people in ways that all existing social apps and social spaces have failed to.
+
+Specifically, our goal is to solve [[The Implicit Attributes Problem]], in virtual spaces by using technology, and in physical spaces by creating a new kind of business.
+
+Since we intend to begin with the physical locations, that is the half of the mission we will focus on describing below.
+
+Preliminary details on the tech side of the business can be found by poking around in the dictionary directory.
 
 ## The Problem
 
-There's one fact that everyone of all ages agrees on: People don't seem to talk to each other like they used to.
-
-So, where are we supposed to meet new people these days?
+Where are we supposed to meet new people these days?
 
 This question is asked [[Where To Find People|countless times]] a day, on every online platform.
 
