@@ -1,3 +1,8 @@
+The Implicit Attributes Problem. (noun)
+
+The fact that the vast majority of important truths about every human are not searchable by any existing form of technology, nor directly observable in person. As a result, most people who might be looking for someone exactly like you cannot find you, nor would you be able to find them. Becoming aware of this problem can lead one to question the utility of all existing social apps.
+
+---
 
 - Add up all the information about you on every social media profile.
 

@@ -1,4 +1,4 @@
-## Regular Metcalfe's Law
+## Metcalfe's Law
 
 The familiar Metcalfe's Law states that the value of a network is proportional to the square of the number of users. This means that as more people join a network, its value increases exponentially.
 

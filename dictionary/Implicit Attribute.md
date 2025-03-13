@@ -22,4 +22,4 @@ The difference is they're not searchable, so all the people looking for someone 
 
 Making these attributes searchable without making them public is one of the fundamental problems of modern society we aim to solve.
 
-See also [[Blue Skin Problem]].
+See also [[Blue Skin]].

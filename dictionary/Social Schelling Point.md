@@ -1,0 +1,5 @@
+Social Schelling Point. (noun)
+
+1. A physical location specifically optimized for meeting new people. Any person X in a Social Schelling Point can be confident that any other individual Y in the same location is open to meeting new people, because all individuals present in that location entered it with full knowledge of that location's purpose. Any such person X in a SSP can be confident, even before talking to any other person Y, that Y will not be bothered or annoyed if X approaches and initiates a conversation. Because like, obviously, that's why you're both there.
+
+This concept is a specific case of the concept of a [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) in game theory.

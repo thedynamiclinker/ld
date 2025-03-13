@@ -97,7 +97,7 @@ Now I personally have nothing against laptops or smart phones. That's where us w
 
 But apparently these things have contributed to the loneliness and social isolation so many people feel.
 
-The members claim that their business (and no other existing business, except what they call "stupid ones") uniquely offers a solution to [[The Initiation Problem]] (a term they made up themselves, which seems like cheating if you ask me) and solves it by providing a small barrier that affects all customers equally. Any person in the building has effectively agreed to interact with strangers simply by being there. Otherwise, they would be somewhere else.
+The members claim that their business (and no other existing business, except what they call "stupid ones") uniquely offers a solution to [[Justified Icebreaker]] (a term they made up themselves, which seems like cheating if you ask me) and solves it by providing a small barrier that affects all customers equally. Any person in the building has effectively agreed to interact with strangers simply by being there. Otherwise, they would be somewhere else.
 
 So in an odd sort of way, by giving a person fewer options, a small obstacle or a tiny prohibition can make it easier to take certain actions.
 

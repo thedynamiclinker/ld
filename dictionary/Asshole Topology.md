@@ -1,5 +1,7 @@
 ## Definition
 
+Asshole Topology. (noun)
+
 The form of social network built by all modern "social" apps.
 
 Also known as the star topology, by uptight[^1] individuals.

@@ -1,165 +1,31 @@
 
 ![[ld.png]]
 
-
-## The Modern World
-
-Welcome to the modern world.
-
-It's been 25 years since the internet boom of 2000 promised to revolutionize the way human beings connect.
-
-Now, several decades on, there's never been a time in human history when it was so difficult to make real human connections. And there's never been a time when so many people were hungry for them.
-
-All existing social apps, from dating apps to career apps to the large "social" networks, have made the world a dramatically less social and more lonely place.
-
-All existing physical businesses where human beings congregate, from restaurants, to coffee shops, to neighborhood bars, have failed in precisely the same way, though this fact is less often recognized or discussed.
-
-The modern world lacks even a loose approximation of the sort of [Third Places](https://en.wikipedia.org/wiki/Third_place) our parents and grandparents had. Not because the spaces themselves do not exist, but because mobile technology has given each of us own portable virtual world, into which we can escape, and from which we can draw dopamine. The presence of such technology in every public location has dramatically changed the social defaults of what might otherwise have been social spaces.
-
-Both the virtual economy of bits and bytes and the physical economy of brick and mortar have failed to address the crushing loneliness and social isolation of modern life. It's not hard to understand why. Running a business is extremely hard, so it's nearly impossible for most owners to avoid becoming [this](https://youtu.be/MDPeLlMR2D4?si=EWMHTL-IxFGP5Ae8&t=148).
-
-"So what?", some people say.
-
-"Is this really a big deal?"
-
-"We still have lots of ways to connect with people."
-
-"After all, look at all my friends on social media."
-
-![[pig-restaurant-scene-theyre-not-real.png]]
-
-We don't know you.
-
-![[pig-restaurant-scene-none-of-it-is-real.png]]
-
-But we know you need more in life than another swipe app, or a slighty better burrito.
-
-## The Problem
-
-Where are we supposed to meet new people these days?
-
-This question is asked [[Where To Find People|countless times]] a day, on every online platform.
-
-Let's consider the possible answers.
-
-Picture any business park or plaza. The places that look like this:
-
-![[commercial-real-estate-1.jpg]]
-
-Now mentally delete the places that aren't social to begin with.
-
-Cross out the grocery stores, convenience stores, pharmacies, chiropractors, massage parlors, salons, barbers, pet stores, and dentists.
-
-Sure, it's _possible_ to meet new people at the dentist. But going to the dentist in an attempt to meet new people would be sufficient for a diagnosis of delusional over-optimism.
-
-So, which businesses are left, after we cross out all the obvious non-starters?
-
-In the average business plaza, we're left with one category:
-
-The food and drink places.
-
-So let's examine them.
-
-Consider any coffee shop, restaurant, or bar in the average modern city.
-
-The coffee shops look like this:
-
-![[coffee-shop.jpg]]
-
-The restaurants look like this:
-
-![[restaurant-1.jpg]]
-
-As for the bars, the night clubs and party bars look something like this:
-
-![[nightclub-1.jpg]]
-
-Then there are the breweries and tasting rooms, where the focus is all on the beer or wine itself. They look something like this:
-
-![[brewery-1-barn-door.jpg]]
-
-Every one of these businesses has the same problem.
-
-They're places you go either (1) alone, or (2) with people you already know.
-
-They're not places that you can easily meet new people.
-
-And even when you do happen to meet someone new at such places, the locations themselves do not show any evidence of being designed for the specific purpose of helping you to meet other people who you didn't already know.
-
-When it happens, it's either a lucky accident, or because you specifically took the initiative yourself. The businesses themselves aren't designed to make it easier.
-
-In every single coffee shop or restaurant, you'll see the same social structure.
-
-Little groups of people who already knew each other when they came in.
-
-You'll almost never see groups of people who met at that location.
-
-The closest exception is the neighborhood bar, which tends to look something like this:
-
-![[neighborhood-bar-1.jpg]]
-
-
-These locations are the closest thing to a business that is optimized for meeting new people. And yet even these places completely fail to solve the problem in any general sense.
-
-First of all, not everyone drinks.
-
-Second of all, even for those of us who do drink, the human desire to meet new people goes far beyond the times of day when one is interested in drinking alcohol.
-
-So how do you design a place that makes it easy to meet new people, for everyone: morning, noon, and night?
-
-Go back to that mental image of your local coffee shop, restaurant, or bar.
-
-Picture all those people in the small groups that they came in with.
-
-Picture a girl in the corner, looking at her phone.
-
-Picture a guy on a laptop with his headphones in.
-
-How do you take that exact mental image, and make the smallest possible change that will get those people talking to each other?
-
-How do you break the thick imaginary walls between them, and create a place where it doesn't feel awkward to approach the small group, or the phone girl, or the laptop guy?
-
-This is precisely the problem we intend to solve.
+> _Talent hits a target no one else can hit. Genius hits a target no one else can see._
+> -Arthur Schopenhauer
 
 ---
-## The Solution
+## Low Tech
 
-The modern world can be a pretty lonely place.
+Given the loneliness and social isolation that plague [[The Modern World]],
 
-![[loneliness-collage-youtube-3.jpg]]
+Our mission is to solve [[The Social Schelling Point Problem]],
 
-We believe this is not an inevitable result of human psychology, or smartphones, or modern society overall.
+And in doing so, to answer the question of [[Where To Find People]].
 
-![[loneliness-collage-youtube-1.jpg]]
+We claim that this problem can be solved by a business with a built-in [[Justified Icebreaker]].
 
-We believe the loneliness of modern life is a direct consequence of the nonexistence of a certain type of place 一 specifically a certain type of business 一 often called a Third Place.
+This is the missing ingredient that currently plagues all physical locations that claim to be a [[The Third Place|Third Place]].
 
-![[loneliness-collage-youtube-5.jpg]]
+Solving this problem requires opening a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
 
-It is those businesses that we aim to create.
+We are currently working to open such locations.
 
-We believe that every other business currently in existence is pathetically failing to address this problem, including the ones that claim to be "[reclaiming the third place](https://stories.starbucks.com/emea/stories/2024/reclaiming-third-places-our-bold-vision-for-community-stores/)."
+## High Tech
 
-We intend to do things differently.
+The existence of these locations is a key pre-requisite that will enable us to attack a much more pernicious disease of modern life: [[The Implicit Attributes Problem]].
 
-We're currently working on opening several physical locations.
+By using a combination of technology and the physical locations described above, we aim to perform [[Information Mining]] and storage of [[Implicit Attribute|Implicit Attributes]] in an opt-in manner, and in doing so, to create an embedding based search of a far richer set of information than can be represented in any online profile, and to do so without requiring that information to be published in natural language in any publicly visible way.
 
-That was a lot of marketing buzzwords. Let's rephrase that.
-
-Every location we open aims to solve a simple problem:
-
-- Starting from a conventional business model, like a coffee shop, restaurant, or bar.
-- Add some simple rule or constraint that applies inside the business, with the goal of removing the awkwardness of interacting with strangers.
-
-The resulting businesses must be both:
-
-1. Profitable enough to sustain and grow, and
-2. Not simply lead to a room full of individuals on their laptops, phones, or in small groups of people that already knew each other when they arrived together.
-
-That is, it must be more comfortable, in each business, to interact with strangers than it is to avoid doing so, for the largest possible range of individual personality types. And this feature must be present at all times of day, not only during the afternoons and evenings when it's the perfect time for a few drinks.
-
-After all, if there's one thing that people of all ages agree on these days, it's that people don't seem to talk to each other like they used to. Let's fix that.
-
-For some of the locations we are currently working on opening, see:
-- [[The Other Place]]
-- [[The Internet]]
+## WTF did I just read?
+Sorry. Sometimes you need to coin new terms to talk about new ideas. But to put it more simply: We're building physical locations where it's not awkward to meet new people, and tech that lets you find the kind of people you're looking for, using more than just pictures and some words in a profile. Because it's pretty damn hard to meet new people these days. So we're working on fixing that, both in person and online.
