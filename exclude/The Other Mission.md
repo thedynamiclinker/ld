@@ -44,7 +44,7 @@
 
 - We intend to _make_ money from doing those things, enough to bootstrap the tech side without diluting our stake in the company.
 
-- The only companies that can make this work are ones with a [[Mission|mission]]. Not just an empty corporate mission, but a mission to solve a major problem that affects everyone, and which no other company is working on.
+- The only companies that can make this work are ones with a [[Mission - Details for Nerds|mission]]. Not just an empty corporate mission, but a mission to solve a major problem that affects everyone, and which no other company is working on.
 
 - The way to make the cost of advertising and initial user acquisition negative is to open a number of physical locations which are themselves profitable businesses. For current plans in this direction, see:
 	- [[The Internet]]

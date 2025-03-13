@@ -1,31 +1,87 @@
 
-![[ld.png]]
+Where are we supposed to meet new people these days?
 
-> _Talent hits a target no one else can hit. Genius hits a target no one else can see._
-> -Arthur Schopenhauer
+This question is asked [[Where To Find People|countless times]] a day, on every online platform.
 
----
-## Low Tech
+Let's consider the possible answers.
 
-Given the loneliness and social isolation that plague [[The Modern World]],
+Picture any business park or plaza. The places that look like this:
 
-Our mission is to solve [[The Social Schelling Point Problem]],
+![[commercial-real-estate-1.jpg]]
 
-And in doing so, to answer the question of [[Where To Find People]].
+Now mentally delete the places that aren't social to begin with.
 
-We claim that this problem can be solved by a business with a built-in [[Justified Icebreaker]].
+Cross out the grocery stores, convenience stores, pharmacies, chiropractors, massage parlors, salons, barbers, pet stores, and dentists.
 
-This is the missing ingredient that currently plagues all physical locations that claim to be a [[The Third Place|Third Place]].
+Sure, it's _possible_ to meet new people at the dentist. But going to the dentist in an attempt to meet new people would be sufficient for a diagnosis of delusional over-optimism.
 
-Solving this problem requires opening a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
+So, which businesses are left, after we cross out all the obvious non-starters?
 
-We are currently working to open such locations.
+In the average business plaza, we're left with one category:
 
-## High Tech
+The food and drink places.
 
-The existence of these locations is a key pre-requisite that will enable us to attack a much more pernicious disease of modern life: [[The Implicit Attributes Problem]].
+So let's examine them.
 
-By using a combination of technology and the physical locations described above, we aim to perform [[Information Mining]] and storage of [[Implicit Attribute|Implicit Attributes]] in an opt-in manner, and in doing so, to create an embedding based search of a far richer set of information than can be represented in any online profile, and to do so without requiring that information to be published in natural language in any publicly visible way.
+Consider any coffee shop, restaurant, or bar in the average modern city.
 
-## WTF did I just read?
-Sorry. Sometimes you need to coin new terms to talk about new ideas. But to put it more simply: We're building physical locations where it's not awkward to meet new people, and tech that lets you find the kind of people you're looking for, using more than just pictures and some words in a profile. Because it's pretty damn hard to meet new people these days. So we're working on fixing that, both in person and online.
+The coffee shops look like this:
+
+![[coffee-shop.jpg]]
+
+The restaurants look like this:
+
+![[restaurant-1.jpg]]
+
+As for the bars, the night clubs and party bars look something like this:
+
+![[nightclub-1.jpg]]
+
+Then there are the breweries and tasting rooms, where the focus is all on the beer or wine itself. They look something like this:
+
+![[brewery-1-barn-door.jpg]]
+
+Every one of these businesses has the same problem.
+
+They're places you go either (1) alone, or (2) with people you already know.
+
+They're not places that you can easily meet new people.
+
+And even when you do happen to meet someone new at such places, the locations themselves do not show any evidence of being designed for the specific purpose of helping you to meet other people who you didn't already know.
+
+When it happens, it's either a lucky accident, or because you specifically took the initiative yourself. The businesses themselves aren't designed to make it easier.
+
+In every single coffee shop or restaurant, you'll see the same social structure.
+
+Little groups of people who already knew each other when they came in.
+
+You'll almost never see groups of people who met at that location.
+
+The closest exception is the neighborhood bar, which tends to look something like this:
+
+![[neighborhood-bar-1.jpg]]
+
+
+These locations are the closest thing to a business that is optimized for meeting new people. And yet even these places completely fail to solve the problem in any general sense.
+
+First of all, not everyone drinks.
+
+Second of all, even for those of us who do drink, the human desire to meet new people goes far beyond the times of day when one is interested in drinking alcohol.
+
+So how do you design a place that makes it easy to meet new people, for everyone: morning, noon, and night?
+
+Go back to that mental image of your local coffee shop, restaurant, or bar.
+
+Picture all those people in the small groups that they came in with.
+
+Picture a girl in the corner, looking at her phone.
+
+Picture a guy on a laptop with his headphones in.
+
+How do you take that exact mental image, and make the smallest possible change that will get those people talking to each other?
+
+How do you break the thick imaginary walls between them, and create a place where it doesn't feel awkward to approach the small group, or the phone girl, or the laptop guy?
+
+The problem of how to break those walls by introducing some additional dynamic to a social space is the problem we are focused on solving.
+
+For details on how we aim to solve this problem, here are some more in-depth [[Mission - Details for Nerds|details for nerds]].
