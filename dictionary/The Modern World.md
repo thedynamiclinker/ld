@@ -8,9 +8,11 @@ All existing social apps, from dating apps to career apps to the large "social" 
 
 All existing physical businesses where human beings congregate, from restaurants, to coffee shops, to neighborhood bars, have failed in precisely the same way, though this fact is less often recognized or discussed.
 
-The modern world lacks even a loose approximation of the sort of [Third Places](https://en.wikipedia.org/wiki/Third_place) our parents and grandparents had. Not because the spaces themselves do not exist, but because mobile technology has given each of us own portable virtual world, into which we can escape, and from which we can draw dopamine. The presence of such technology in every public location has dramatically changed the social defaults of what might otherwise have been social spaces.
+The modern world lacks even a loose approximation of the sort of [Third Places](https://en.wikipedia.org/wiki/Third_place) our parents and grandparents had. Not because the spaces themselves do not exist, but because mobile technology has given each of us own portable virtual world into which we can escape, and from which we can draw dopamine. The presence of such technology in every public location has dramatically changed the social defaults of what might otherwise have been social spaces.
 
-Both the virtual economy of bits and bytes and the physical economy of brick and mortar have failed to address the crushing loneliness and social isolation of modern life. It's not hard to understand why. Running a business is extremely hard, so it's nearly impossible for most owners to avoid becoming [this](https://youtu.be/MDPeLlMR2D4?si=EWMHTL-IxFGP5Ae8&t=148).
+Both the virtual economy of bits and bytes, and the physical economy of brick and mortar have failed to address the crushing loneliness and social isolation of modern life.
+
+It's not hard to understand why. Running a business is extremely hard, so it's nearly impossible for most owners to avoid becoming [this](https://youtu.be/MDPeLlMR2D4?si=EWMHTL-IxFGP5Ae8&t=148).
 
 "So what?", some people say.
 
@@ -22,8 +24,10 @@ Both the virtual economy of bits and bytes and the physical economy of brick and
 
 ![[pig-restaurant-scene-theyre-not-real.png]]
 
-We don't know you.
-
 ![[pig-restaurant-scene-none-of-it-is-real.png]]
 
+We don't know you.
+
 But we know you need more in life than another swipe app, or a slighty better burrito.
+
+And we know you deserve a better answer to "Where to meet new people" than some non-sequitur like "take a pottery class" or "talk to people at the gym."

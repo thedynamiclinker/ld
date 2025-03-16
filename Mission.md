@@ -5,11 +5,13 @@ This question is asked [[Where To Find People|countless times]] a day, on every 
 
 Let's consider the possible answers.
 
-Picture any business park or plaza. The places that look like this:
+Picture any of the business parks or plazas you visit regularly.
+
+The places closest to your home that look something like this:
 
 ![[commercial-real-estate-1.jpg]]
 
-Now mentally delete the places that aren't social to begin with.
+Mentally walk around that plaza, and start by deleting the places that aren't social to begin with.
 
 Cross out the grocery stores, convenience stores, pharmacies, chiropractors, massage parlors, salons, barbers, pet stores, and dentists.
 
@@ -25,15 +27,15 @@ So let's examine them.
 
 Consider any coffee shop, restaurant, or bar in the average modern city.
 
-The coffee shops look like this:
+In the coffee shops, we find people doing things that look like this:
 
 ![[coffee-shop.jpg]]
 
-The restaurants look like this:
+The restaurants are full of people doing things like this:
 
 ![[restaurant-1.jpg]]
 
-As for the bars, the night clubs and party bars look something like this:
+As for the bars, the night clubs and party focused ones look something like this:
 
 ![[nightclub-1.jpg]]
 
@@ -43,7 +45,9 @@ Then there are the breweries and tasting rooms, where the focus is all on the be
 
 Every one of these businesses has the same problem.
 
-They're places you go either (1) alone, or (2) with people you already know.
+They're places you go either:
+1. alone, or
+2. with people you already know.
 
 They're not places that you can easily meet new people.
 
@@ -51,7 +55,7 @@ And even when you do happen to meet someone new at such places, the locations th
 
 When it happens, it's either a lucky accident, or because you specifically took the initiative yourself. The businesses themselves aren't designed to make it easier.
 
-In every single coffee shop or restaurant, you'll see the same social structure.
+In every coffee shop or restaurant, you'll see the same social structure.
 
 Little groups of people who already knew each other when they came in.
 
@@ -82,6 +86,8 @@ How do you take that exact mental image, and make the smallest possible change t
 
 How do you break the thick imaginary walls between them, and create a place where it doesn't feel awkward to approach the small group, or the phone girl, or the laptop guy?
 
-The problem of how to break those walls by introducing some additional dynamic to a social space is the problem we are focused on solving.
+The problem of how to break those walls naturally by introducing a small tweak to familiar business models is the problem we're focused on solving.
 
-For details on how we aim to solve this problem, here are some more in-depth [[Mission - Details for Nerds|details for nerds]].
+For more details on how we aim to solve this problem, here are some more in-depth [[Mission - Details for Nerds|details for nerds]].
+
+For upcoming events we're hosting, see [[Events]].
