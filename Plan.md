@@ -19,13 +19,20 @@ And in doing so, to answer the commonly asked question of [[Where To Find People
 
 We claim that this problem can be solved by a business with a built-in [[Justified Icebreaker]].
 
-Doing so solves [[The Approach Identification Problem]], and provides a key piece of information to those inside the establishment that is absent in all outside physical locations.
+A justified icebreaker is the necessary ingredient in solving two fundamental barriers to comfortably meeting new people in public. These two problems are what we'll call:
 
-Any location that provides this information becomes a [[Social Schelling Point]], thus addressing the problem with which we began.
+1. [[The Approach Identification Problem]], and
+2. [[The Initiation Problem]]
+
+Any businesses of this form provides everyone inside the establishment with a key piece of information that is absent in all outside physical locations.
+
+Any such location therefore becomes a [[Social Schelling Point]], thus addressing the problem with which we began.
 
 A solution to these problems is the missing ingredient that currently plagues all physical locations that claim to be a [[The Third Place|Third Place]].
 
-Solving these problems does not require large scale changes to society, it simple requires opening a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
+Solving these problems does not require large scale changes to society.
+
+It simply requires opening a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
 
 We are currently working to open such locations.
 
