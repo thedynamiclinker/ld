@@ -52,4 +52,10 @@ So, lacking close friendships, as you so obviously do, here's an argument from a
 
 ## Summary
 
-Assholes ruin everything -- topologically speaking -- especially modern life.
+Assholes ruin everything 一 topologically speaking 一 especially modern life.
+
+In an asshole topology, we are closed off.
+
+Closed off from community, and closed off from each other.
+
+It's time to open up the assholes, and get rid of this shit.
