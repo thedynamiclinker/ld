@@ -3,6 +3,8 @@
 
 Social life is broken, both in the world of atoms (aka, physical reality) and the world of bits (aka, the internet).
 
+In this file, we will sketch a rough draft of what we believe is a possible solution.
+
 This is going to move fast, and there's a lot of information behind the links. 
 
 Lesser minds than yours will have trouble keeping up.
@@ -19,7 +21,7 @@ And in doing so, to answer the commonly asked question of [[Where To Find People
 
 We claim that this problem can be solved by a business with a built-in [[Justified Icebreaker]].
 
-A justified icebreaker is the necessary ingredient in solving two fundamental barriers to comfortably meeting new people in public. These two problems are what we'll call:
+A justified icebreaker is the necessary ingredient in overcoming two fundamental barriers to comfortably meeting new people in public. These two problems are what we'll call:
 
 1. [[The Approach Identification Problem]], and
 2. [[The Initiation Problem]]
