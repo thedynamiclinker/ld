@@ -88,6 +88,6 @@ How do you break the thick imaginary walls between them, and create a place wher
 
 The problem of how to break those walls naturally by introducing a small tweak to familiar business models is the problem we're focused on solving.
 
-For more details on how we aim to solve this problem, here are some more in-depth [[Outline of the Plan|details for nerds]].
+For more details on how we aim to solve this problem, here's a more detailed description of our [[Plan]].
 
 For upcoming events we're hosting, see [[Events]].

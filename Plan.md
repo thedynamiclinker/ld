@@ -1,9 +1,6 @@
 
 ![[ld.png]]
 
-> _Talent hits a target no one else can hit. Genius hits a target no one else can see._
-> -Arthur Schopenhauer
-
 Social life is broken, both in the world of atoms (aka, physical reality) and the world of bits (aka, the internet).
 
 This is going to move fast, and there's a lot of information behind the links. 
@@ -24,15 +21,17 @@ We claim that this problem can be solved by a business with a built-in [[Justifi
 
 Doing so solves [[The Approach Identification Problem]], and provides a key piece of information to those inside the establishment that is absent in all outside physical locations.
 
-A solution to this problem is the missing ingredient that currently plagues all physical locations that claim to be a [[The Third Place|Third Place]].
+Any location that provides this information becomes a [[Social Schelling Point]], thus addressing the problem with which we began.
 
-Solving these problems requires a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
+A solution to these problems is the missing ingredient that currently plagues all physical locations that claim to be a [[The Third Place|Third Place]].
+
+Solving these problems does not require large scale changes to society, it simple requires opening a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
 
 We are currently working to open such locations.
 
 ## The World of Bits
 
-The existence of these locations is a key pre-requisite that will enable us to attack a much more pernicious disease of modern life: [[The Implicit Attributes Problem]].
+The existence of the physical locations described above is a key pre-requisite that will enable us to attack a much more pernicious disease of modern life: [[The Implicit Attributes Problem]].
 
 By using a combination of technology and the physical locations described above, we aim to perform [[Information Mining]] and storage of [[Implicit Attribute|Implicit Attributes]] in an opt-in manner, and in doing so, to create an embedding based search of a far richer set of information than can be represented in any online profile, and to do so without requiring that information to be published in natural language in any publicly visible way.
 
