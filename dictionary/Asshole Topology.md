@@ -24,7 +24,9 @@ Each line connects you to someone you met on some modern social app, like Tinder
 
 We draw an edge between any two people who know each other.
 
-Since no two people you meet on these apps typically know each other, we end up with an asshole topology.
+Since no two people you meet on these apps typically know each other,[^2] we end up with an asshole topology.
+
+[^2]: With the exception of groups of people you've interacted with in person long term, such as a group of coworkers at a previous job, which would be closer to a complete subgraph within your connections on LinkedIn. The fact that these complete subgraphs appear on social apps typically only when they correspond to some long-term group with regular in-person interactions is precisely the point. The apps themselves didn't build those dense subgraphs. The apps built an Asshole Topology.
 
 That is: You now know a bunch of people, but none of them knows each other.
 

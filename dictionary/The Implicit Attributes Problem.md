@@ -24,7 +24,7 @@ The fact that the vast majority of important truths about every human are not se
 
 - Side Effects of this Problem:
 
-	- Every social search app from Tinder to LinkedIn is pathetically underpowered, due to the lack of [[User Valued Data]] it has about its users.
+	- Every social search app from Tinder to LinkedIn is pathetically underpowered, due to the lack of [[Data of 2nd Party Value]] it has about its users.
 
 	- These apps end up optimizing for surface level attributes.
 

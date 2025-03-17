@@ -4,7 +4,7 @@
 > _Talent hits a target no one else can hit. Genius hits a target no one else can see._
 > -Arthur Schopenhauer
 
----
+Social life is broken, both in the world of atoms (aka, physical reality) and the world of bits (aka, the internet).
 
 This is going to move fast, and there's a lot of information behind the links. 
 
@@ -12,7 +12,7 @@ Lesser minds than yours will have trouble keeping up.
 
 But new thoughts require new words if we want to properly describe them, so here's a first attempt in that direction.
 
-## The low tech problem
+## The World of Atoms
 
 Given the loneliness and social isolation that plague [[The Modern World]],
 
@@ -22,13 +22,15 @@ And in doing so, to answer the commonly asked question of [[Where To Find People
 
 We claim that this problem can be solved by a business with a built-in [[Justified Icebreaker]].
 
-This is the missing ingredient that currently plagues all physical locations that claim to be a [[The Third Place|Third Place]].
+Doing so solves [[The Approach Identification Problem]], and provides a key piece of information to those inside the establishment that is absent in all outside physical locations.
 
-Solving this problem requires opening a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
+A solution to this problem is the missing ingredient that currently plagues all physical locations that claim to be a [[The Third Place|Third Place]].
+
+Solving these problems requires a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
 
 We are currently working to open such locations.
 
-## The high tech problem
+## The World of Bits
 
 The existence of these locations is a key pre-requisite that will enable us to attack a much more pernicious disease of modern life: [[The Implicit Attributes Problem]].
 

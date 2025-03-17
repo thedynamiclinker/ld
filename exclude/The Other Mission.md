@@ -24,7 +24,7 @@
 
 - Side Effects of this Problem:
 
-	- Every social search app from Tinder to LinkedIn is pathetically underpowered, due to the lack of [[User Valued Data]] it has about its users.
+	- Every social search app from Tinder to LinkedIn is pathetically underpowered, due to the lack of [[Data of 2nd Party Value]] it has about its users.
 
 	- These apps end up optimizing for surface level attributes.
 
@@ -44,7 +44,7 @@
 
 - We intend to _make_ money from doing those things, enough to bootstrap the tech side without diluting our stake in the company.
 
-- The only companies that can make this work are ones with a [[Mission - Details for Nerds|mission]]. Not just an empty corporate mission, but a mission to solve a major problem that affects everyone, and which no other company is working on.
+- The only companies that can make this work are ones with a [[Outline of the Plan|mission]]. Not just an empty corporate mission, but a mission to solve a major problem that affects everyone, and which no other company is working on.
 
 - The way to make the cost of advertising and initial user acquisition negative is to open a number of physical locations which are themselves profitable businesses. For current plans in this direction, see:
 	- [[The Internet]]
