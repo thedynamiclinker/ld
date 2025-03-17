@@ -26,7 +26,7 @@ A justified icebreaker is the necessary ingredient in overcoming two fundamental
 1. [[The Approach Identification Problem]], and
 2. [[The Initiation Problem]]
 
-Any businesses of this form provides everyone inside the establishment with a key piece of information that is absent in all outside physical locations.
+Any business of this form provides everyone inside with a key piece of information that is absent in all outside physical locations: the invisible attribute of whether or not a given person is open to meeting new people at the moment.
 
 Any such location therefore becomes a [[Social Schelling Point]], thus addressing the problem with which we began.
 
