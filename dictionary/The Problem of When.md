@@ -26,11 +26,9 @@ In the past, someone sitting alone at a coffee shop or bar might be reading a bo
 
 Now, they may be on their laptop trying to get work done on a tight deadline. They might be on their phone having a heated argument with a recent ex. Or they may simply be scrolling through a social media feed, an activity that is measurably more addictive than the distractions available in the past.
 
-Many people intuitively feel that the existence of new technology has made meeting new people in real life harder.
+Many people intuitively feel that the existence of new technology has made meeting new people in real life harder. We believe this is why.
 
-We believe this is the specific mechanism by which that has occurred.
-
-This problem is now much harder to solve, and this difficulty extends equally to every physical location that claims to be a "Third Place."
+The problem of when is now much harder to solve, and this difficulty extends equally to every physical location that claims to be a "Third Place."
 
 Fleeting physical locations are often created in an attempt to solve this problem, for example meetup groups designed for meeting new friends, singles mixers, speed dating, and other such events.
 
