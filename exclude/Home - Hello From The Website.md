@@ -53,7 +53,7 @@ A lot more.
 
 To be honest, I couldn't quite believe it when I first saw all these posts.
 
-Hundreds of people with no idea [[Where To Find People]] or how to meet someone new.
+Hundreds of people with no idea [[The Problem of Where]] or how to meet someone new.
 
 How could this be? After all, people are everywhere. Just look at them all.
 

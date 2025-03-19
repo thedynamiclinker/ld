@@ -48,4 +48,4 @@ Any app that managed to incentivise users to voluntarily gather and store as man
 
 This problem can likely be solved by [[Information Mining]], but it is difficult to incentivise users to engage in Information Mining in the quantities required to solve this problem.
 
-For details on how we intend to attack this problem anyway, see [[Where To Find People]].
+For details on how we intend to attack this problem anyway, see [[The Problem of Where]].

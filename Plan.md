@@ -13,18 +13,18 @@ But new thoughts require new words if we want to properly describe them, so here
 
 ## The World of Atoms
 
-Given the loneliness and social isolation that plague [[The Modern World]],
+Given the loneliness and social isolation that plague [[The Modern World vs Human Needs|The Modern World]],
 
 Our mission is to solve [[The Social Schelling Point Problem]],
 
-And in doing so, to answer the commonly asked question of [[Where To Find People]].
+And in doing so, to answer the commonly asked question of [[The Problem of Where]].
 
 We claim that this problem can be solved by a business with a built-in [[Justified Icebreaker]].
 
 A justified icebreaker is the necessary ingredient in overcoming two fundamental barriers to comfortably meeting new people in public. These two problems are what we'll call:
 
-1. [[The Approach Identification Problem]], and
-2. [[The Initiation Problem]]
+1. [[The Problem of When]], and
+2. [[The Problem of What]]
 
 Any business of this form provides everyone inside with a key piece of information that is absent in all outside physical locations: the invisible attribute of whether or not a given person is open to meeting new people at the moment.
 

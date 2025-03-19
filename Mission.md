@@ -1,7 +1,7 @@
 
 Where are we supposed to meet new people these days?
 
-This question is asked [[Where To Find People|countless times]] a day, on every online platform.
+This question is asked [[The Problem of Where|countless times]] a day, on every online platform.
 
 Let's consider the possible answers.
 
