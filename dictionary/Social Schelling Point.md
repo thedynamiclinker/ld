@@ -12,7 +12,7 @@ Any person X in a Strong Social Schelling Point can be confident that any other 
 
 Any such person X in a Social Schelling Point can be confident, even before talking to any other person Y, that Y will not be bothered or annoyed if X approaches and initiates a conversation.
 
-This knowledge does not require X and Y to communicate, it is implied by their shared presence in the location. In other words, they that's why they're both there.
+This knowledge does not require X and Y to communicate, it is implied by their shared presence in the location. In other words, that's why they're both there.
 
 This concept is a specific case of the concept of a [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) in game theory.
 
