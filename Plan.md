@@ -1,7 +1,7 @@
 
 ![[ld.png]]
 
-Social life is broken, both in the world of atoms (aka, physical reality) and the world of bits (aka, the internet).
+Social life is broken, both in the world of atoms (physical reality), and the world of bits (the internet).
 
 In this file, we will sketch a rough draft of what we believe is a possible solution.
 
@@ -13,28 +13,15 @@ But new thoughts require new words if we want to properly describe them, so here
 
 ## The World of Atoms
 
-Given the loneliness and social isolation that plague [[The Modern World vs Human Needs|The Modern World]],
+Our mission is to create physical locations that solve [[The Big Four]] problems of modern social life.
 
-Our mission is to solve [[The Social Schelling Point Problem]],
-
-And in doing so, to answer the commonly asked question of [[The Problem of Where]].
-
-We claim that this problem can be solved by a business with a built-in [[Justified Icebreaker]].
-
-A justified icebreaker is the necessary ingredient in overcoming two fundamental barriers to comfortably meeting new people in public. These two problems are what we'll call:
-
-1. [[The Problem of When]], and
-2. [[The Problem of What]]
-
-Any business of this form provides everyone inside with a key piece of information that is absent in all outside physical locations: the invisible attribute of whether or not a given person is open to meeting new people at the moment.
-
-Any such location therefore becomes a [[Social Schelling Point]], thus addressing the problem with which we began.
+In doing so, we aim to create the first ever locations that meet all the requirements of a [[Social Schelling Point|Strong Social Schelling Point]].
 
 A solution to these problems is the missing ingredient that currently plagues all physical locations that claim to be a [[The Third Place|Third Place]].
 
 Solving these problems does not require large scale changes to society.
 
-It simply requires opening a new category of business, like [[The Internet|this one]] and [[The Other Place|this one]].
+It simply requires clearly defining an industry that the modern economy is lacking: [[The Situation Industry]], and then creating specific businesses within that industry designed to solve these problems, like [[The Internet|this one]] and [[The Other Place|this one]].
 
 We are currently working to open such locations.
 
@@ -46,3 +33,5 @@ By using a combination of technology and the physical locations described above,
 
 ## WTF did I just read?
 Sorry. That was a lot. So to say the same thing more simply: We're building physical locations where it's not awkward to meet new people, and tech that lets you find the kind of people you're looking for, using more than just pictures and some words in a profile.
+
+To learn more, start with [[The Big Four]].

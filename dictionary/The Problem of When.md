@@ -10,7 +10,7 @@ This attribute is a function of time, and it is not unusual for it to change sev
 
 A given person may be busy, at 9:00am on a laptop at Starbucks not wanting to be interrupted, and the same person might feel lonely and willing to meet someone at the local bar later that same afternoon.
 
-Further, this willingness (or its absense) is is invisible. It is an [[Implicit Attribute]] of every person, and we cannot detect it just by looking at someone.
+Further, this willingness (or its absence) is invisible. It is an [[Implicit Attribute]] of every person, and we cannot detect it just by looking at someone.
 
 As such, this is an example of an [[Identification Problem]].
 
