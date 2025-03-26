@@ -100,7 +100,7 @@ The only way to understand the bizarre semantics of this business model is to re
 
 And a situation is about the incentives and constraints that it imposes on you, and more importantly, _on everyone else in it._
 
-Situations are not like video games. They're not an abstract puzzle or game of skill that one plays in a virtual form of reality to escape the tedium of actual reality.
+Situations are not like video games. They're not abstract puzzles or games of skill that one plays in a virtual form of reality to escape the tedium of actual reality.
 
 In a situation business, like an escape room or Dick's Last Resort, you are placed into a novel and unusual set of rules that apply both to yourself _and to other real people,_ in actual reality, and through that experience you learn more about yourself and the other real people with whom you shared the experience, and (in the more well designed situations) come away with a more intense and meaningful kind of human relationship with some subset of your co-participants than you could have built in the normal conditions of the outside world.
 

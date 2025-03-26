@@ -45,11 +45,7 @@ They are bemoaning the total absence of locations _specifically designed_ to sol
 
 As obvious as that may be, one still somehow encounters skeptics.
 
-Primarily online, these people claim to be unconvinced that the question of "Where to meet people?" is a genuinely unsolved problem.
-
-As if that wasn't enough, there exists an even stranger breed of skeptic.
-
-These baffling creatures claim to be unconvinced that this problem remains unsolved _even for specific types of people,_ and express skepticism that a location aiming to solve these problems would be useful to anyone. Such individuals appear to suffer from an extreme form of what has come to be called [[Extroverted Autism]].
+Primarily online, these people claim to be unconvinced that the question of "Where to meet people?" is a genuinely unsolved problem. Such individuals appear to suffer from a form of what has come to be called [[Extroverted Autism]].
 
 Extroverted Autism is a debilitating condition, but it is not uncommon, and it is important to treat those who suffer from it with patience and compassion.
 

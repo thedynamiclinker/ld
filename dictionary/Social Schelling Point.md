@@ -18,11 +18,11 @@ However, any locations of this form, if it were possible to create them, would a
 
 For example, any person X in a Strong Social Schelling Point can be confident that any other person Y in the same location is open to meeting new people, because all individuals present in that location entered it with full knowledge of that location's purpose, or were made aware of its purpose immediately after entering.
 
-As such, any person X in a Social Schelling Point can be confident, even before talking to any other person Y, that Y will not be bothered or annoyed if X approaches and initiates a conversation.
+As such, any person X in a Strong Social Schelling Point can be confident, even before talking to any other person Y, that Y will not be bothered or annoyed if X approaches and initiates a conversation.
 
 This knowledge does not require X and Y to communicate, it is implied by their shared presence in the location.
 
-More simply, that's why they're both there.
+More simply: that's why they're both there.
 
 This concept is a specific case of the concept of a [Schelling Point](https://en.wikipedia.org/wiki/Focal_point_(game_theory)) in game theory.
 
