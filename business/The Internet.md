@@ -29,6 +29,9 @@ _The internet you know and love is opening its first physical location!_
 - Great for birthday parties, corporate retreats, and team-building exercises.
 
 ---
+
+![[the-internet-collage-horizontal-5.png]]
+
 ## Business Description
 
 **Concept & Theme**
@@ -51,13 +54,14 @@ _The internet you know and love is opening its first physical location!_
 
 - We will offer monthly subscriptions for a certain number of post-hours per month. A monthly subscription offers a discount relative to standard pricing, possibly outside of peak hours depending on demand. This gives the business a potential for more stable monthly income for no additional input cost.
 
+![[the-internet-collage-horizontal-2.png]]
+
+
 **Examples of the Concept**
 
 We plan to allocate part of the menu to explain how the concept of an "Online Forum, but in person" works in practice.
 
 To illustrate, imagine a first time customer enters the establishment. As she walks around, she sees people eating or drinking at tables showing the following posts, one post per table, on small (20"-30") TVs attached to the wall above each table.
-
-![[the-internet-collage-horizontal-5.png]]
 
 The first table's TV might say:
 
@@ -85,8 +89,7 @@ The remaining tables say things like:
 
 The content of the posts is up to the customers, and is limited only by their creativity and by a few common sense moderation rules.
 
-![[the-internet-collage-horizontal-2.png]]
-
+![[the-internet-collage-horizontal-4.png]]
 Despite being a novel concept for a brick and mortar business, we believe most visitors will find the concept easy to understand, due to the widespread familiarity with online forums, and the superficial resemblance to a standard food and drink establishment.
 
 The only difference from online forums is that here, posts and replies occur in person, allowing real social interactions and new human connections to be forged.
@@ -99,7 +102,6 @@ The only difference from online forums is that here, posts and replies occur in 
 - Mixed-use zoning for food and beverage service.
 - Ability to install digital displays and internet-themed decor.
 
-![[the-internet-collage-horizontal-4.png]]
 **Target Market**
 
 - **Young Professionals:** Seeking new ways to meet people outside of work and dating apps.
