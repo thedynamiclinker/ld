@@ -1,10 +1,8 @@
-10 plazas. 16 spaces.
+Currently preferred locations:
+- 10 plazas
+- 16 spaces
 
-Tried to select plazas with multiple vacancies.
-
-Let's narrow down the plazas by seeing which landlords are most motivated to lease a spot.
-
-Then we can narrow down the spots within the plazas.
+Although the following are currently our preferred locations, we're open to other locations if we find the right landlord.
 
 # Table of Contents
 

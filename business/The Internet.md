@@ -198,13 +198,12 @@ Total Monthly Expenses: ~$35,000
 
 **Potential Challenges & Mitigation Strategies**
 
-- **Retail Brokers:** While we have received a large amount of initial interest from several commercial landlords, our interactions thus far with their brokers has been the reverse. As such, we intend to negotiate on 10-15 locations simultaneously, in order to target the subset of brokers who are motivated to move the process forward without unnecessary impediments.
 - **Regulatory Hurdles:** San Diego county is known to be among the worst locations in the country in terms of building permits and approval times. We plan to engage professionals to help expedite this process, but we will require a sufficient number of months of free rent to allow permitting, construction, and interior decoration to proceed without taking on unnecessary risk arising from delays caused by city planning or related municipal government departments.
 - **Technology Integration:** We will need to provide a seamless experience for managing table threads and digital displays. Given the owners' professional background in technology and software engineering, this poses minimal risk.
 - **Target Market and Customer Acquisition:** We will need to approach marketing more seriously and aggressively in the initial months than a typical restaurant. Given the owners' professional backgrounds in social psychology and human cognition, we do not expect this to pose a significant risk.
 
 **Summary**
-- We see moderate risks arising from (1) regulatory delays and permitting, and (2) the slow pace of commercial lease negotiations. We believe our background is more than sufficient to mitigate any additional risks.
+- We see moderate risks arising from regulatory delays and permitting in San Diego county. We believe our background and financial situation are more than sufficient to mitigate any additional risks arising from the business model itself.
 
 ## Conclusion
 
